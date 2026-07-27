@@ -1,0 +1,18 @@
+pandas
+numpy
+
+sqlalchemy
+psycopg2-binary
+
+scikit-learn
+matplotlib
+joblib
+
+
+
+type nul > python/extract/.gitkeep
+type nul > python/transform/.gitkeep
+type nul > python/model/.gitkeep
+type nul > python/utils/.gitkeep
+type nul > python/sql/.gitkeep
+type nul > docs/decisions.gitkeep
