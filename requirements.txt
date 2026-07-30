@@ -8,11 +8,5 @@ scikit-learn
 matplotlib
 joblib
 
+python-dotenv
 
-
-type nul > python/extract/.gitkeep
-type nul > python/transform/.gitkeep
-type nul > python/model/.gitkeep
-type nul > python/utils/.gitkeep
-type nul > python/sql/.gitkeep
-type nul > docs/decisions.gitkeep
