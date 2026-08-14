@@ -1,0 +1,3 @@
+cenario,modelo,n_treino,n_teste,MAE,RMSE,WAPE
+Sem Pareto (74 categorias),Naive Lag-1,1036,222,15.324324324324325,30.432320419680885,16.111768884679137
+Com Pareto (categorias + 'outras'),Naive Lag-1,322,69,39.53623188405797,55.27402094387876,12.919725313757993

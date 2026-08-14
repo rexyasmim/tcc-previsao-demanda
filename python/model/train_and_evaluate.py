@@ -82,7 +82,7 @@ def get_models():
     }
 
 
-def evaluate_model(name, pipeline, X_test, y_test):
+def evaluate_model(name, pipeline, X_test, y_test, test_data):
     y_pred = pipeline.predict(X_test)
     y_pred = np.clip(y_pred, 0, None)  # demanda nunca é negativa
 
@@ -95,7 +95,24 @@ def evaluate_model(name, pipeline, X_test, y_test):
     print(f"  RMSE: {rmse:.2f}")
     print(f"  WAPE: {wape_score:.2f}%")
 
-    return {"modelo": name, "MAE": mae, "RMSE": rmse, "WAPE": wape_score}
+    previsoes = test_data[
+        ["date", FEATURE_COLUMN_CATEGORICAL]
+    ].copy()
+
+    previsoes["demanda_real"] = y_test.values
+    previsoes["demanda_prevista"] = y_pred
+    previsoes["erro"] = (
+        previsoes["demanda_real"] - previsoes["demanda_prevista"]
+    )
+    previsoes["erro_absoluto"] = np.abs(previsoes["erro"])
+
+    return {
+        "modelo": name,
+        "MAE": mae,
+        "RMSE": rmse,
+        "WAPE": wape_score,
+        "previsoes": previsoes
+    }
 
 
 def run_experiment(apply_pareto, label):
@@ -122,12 +139,34 @@ def run_experiment(apply_pareto, label):
             ("preprocessor", preprocessor),
             ("modelo", modelo),
         ])
+
         pipeline.fit(X_train, y_train)
-        resultado = evaluate_model(nome, pipeline, X_test, y_test)
+
+        resultado = evaluate_model(
+            nome,
+            pipeline,
+            X_test,
+            y_test,
+            test
+        )
+
+        previsoes = resultado.pop("previsoes")
+
         resultado["cenario"] = label
         resultado["n_treino"] = len(train)
         resultado["n_teste"] = len(test)
+
         resultados.append(resultado)
+
+        previsoes["cenario"] = label
+        previsoes["modelo"] = nome
+
+        previsoes.to_csv(
+            f"docs/previsoes_"
+            f"{'pareto' if apply_pareto else 'sem_pareto'}_"
+            f"{nome.lower().replace(' ', '_')}.csv",
+            index=False
+        )
 
     return resultados
 

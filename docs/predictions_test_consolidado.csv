@@ -1,0 +1,1165 @@
+date,product_category_name,demanda_real,demanda_prevista,erro,erro_absoluto,cenario,modelo
+2018-06-01,agro_industria_e_comercio,10,8.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,agro_industria_e_comercio,27,10.0,17.0,17.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,agro_industria_e_comercio,18,27.0,-9.0,9.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,alimentos,24,44.0,-20.0,20.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,alimentos,64,24.0,40.0,40.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,alimentos,115,64.0,51.0,51.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,alimentos_bebidas,11,25.0,-14.0,14.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,alimentos_bebidas,17,11.0,6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,alimentos_bebidas,21,17.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,artes,28,34.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,artes,21,28.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,artes,18,21.0,-3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,artes_e_artesanato,0,1.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,artes_e_artesanato,11,0.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,artes_e_artesanato,9,11.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,artigos_de_festas,2,4.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,artigos_de_festas,2,2.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,artigos_de_festas,14,2.0,12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,artigos_de_natal,7,6.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,artigos_de_natal,8,7.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,artigos_de_natal,10,8.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,audio,20,21.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,audio,22,20.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,audio,26,22.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,automotivo,295,308.0,-13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,automotivo,341,295.0,46.0,46.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,automotivo,370,341.0,29.0,29.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,bebes,223,239.0,-16.0,16.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,bebes,214,223.0,-9.0,9.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,bebes,212,214.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,bebidas,33,47.0,-14.0,14.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,bebidas,16,33.0,-17.0,17.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,bebidas,27,16.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,beleza_saude,875,751.0,124.0,124.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,beleza_saude,770,875.0,-105.0,105.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,beleza_saude,835,770.0,65.0,65.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,brinquedos,190,218.0,-28.0,28.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,brinquedos,154,190.0,-36.0,36.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,brinquedos,165,154.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,cama_mesa_banho,764,740.0,24.0,24.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,cama_mesa_banho,617,764.0,-147.0,147.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,cama_mesa_banho,655,617.0,38.0,38.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,casa_conforto,16,21.0,-5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,casa_conforto,23,16.0,7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,casa_conforto,16,23.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,casa_conforto_2,2,0.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,casa_conforto_2,3,2.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,casa_conforto_2,0,3.0,-3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,casa_construcao,71,79.0,-8.0,8.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,casa_construcao,60,71.0,-11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,casa_construcao,48,60.0,-12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,categoria_desconhecida,23,42.0,-19.0,19.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,categoria_desconhecida,47,23.0,24.0,24.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,categoria_desconhecida,31,47.0,-16.0,16.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,cds_dvds_musicais,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,cds_dvds_musicais,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,cds_dvds_musicais,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,cine_foto,13,17.0,-4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,cine_foto,7,13.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,cine_foto,9,7.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,climatizacao,15,14.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,climatizacao,17,15.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,climatizacao,21,17.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,consoles_games,43,52.0,-9.0,9.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,consoles_games,49,43.0,6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,consoles_games,59,49.0,10.0,10.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,construcao_ferramentas_construcao,113,125.0,-12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,construcao_ferramentas_construcao,115,113.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,construcao_ferramentas_construcao,162,115.0,47.0,47.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,construcao_ferramentas_ferramentas,4,5.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,construcao_ferramentas_ferramentas,12,4.0,8.0,8.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,construcao_ferramentas_ferramentas,14,12.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,construcao_ferramentas_iluminacao,44,38.0,6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,construcao_ferramentas_iluminacao,55,44.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,construcao_ferramentas_iluminacao,62,55.0,7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,construcao_ferramentas_jardim,11,16.0,-5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,construcao_ferramentas_jardim,22,11.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,construcao_ferramentas_jardim,23,22.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,construcao_ferramentas_seguranca,16,22.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,construcao_ferramentas_seguranca,15,16.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,construcao_ferramentas_seguranca,25,15.0,10.0,10.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,cool_stuff,103,175.0,-72.0,72.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,cool_stuff,115,103.0,12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,cool_stuff,119,115.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,dvds_blu_ray,6,7.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,dvds_blu_ray,1,6.0,-5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,dvds_blu_ray,1,1.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,eletrodomesticos,65,64.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,eletrodomesticos,78,65.0,13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,eletrodomesticos,63,78.0,-15.0,15.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,eletrodomesticos_2,19,23.0,-4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,eletrodomesticos_2,23,19.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,eletrodomesticos_2,14,23.0,-9.0,9.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,eletronicos,191,231.0,-40.0,40.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,eletronicos,151,191.0,-40.0,40.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,eletronicos,119,151.0,-32.0,32.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,eletroportateis,49,48.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,eletroportateis,42,49.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,eletroportateis,23,42.0,-19.0,19.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,esporte_lazer,419,489.0,-70.0,70.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,esporte_lazer,460,419.0,41.0,41.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,esporte_lazer,471,460.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_bolsas_e_acessorios,87,110.0,-23.0,23.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_bolsas_e_acessorios,74,87.0,-13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_bolsas_e_acessorios,126,74.0,52.0,52.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_calcados,10,10.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_calcados,5,10.0,-5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_calcados,3,5.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_esporte,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_esporte,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_esporte,1,0.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_roupa_feminina,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_roupa_feminina,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_roupa_feminina,3,0.0,3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_roupa_infanto_juvenil,1,0.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_roupa_infanto_juvenil,0,1.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_roupa_infanto_juvenil,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_roupa_masculina,7,1.0,6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_roupa_masculina,5,7.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_roupa_masculina,3,5.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fashion_underwear_e_moda_praia,7,6.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fashion_underwear_e_moda_praia,2,7.0,-5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fashion_underwear_e_moda_praia,1,2.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,ferramentas_jardim,184,288.0,-104.0,104.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,ferramentas_jardim,177,184.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,ferramentas_jardim,136,177.0,-41.0,41.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,flores,2,1.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,flores,2,2.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,flores,0,2.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,fraldas_higiene,7,3.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,fraldas_higiene,3,7.0,-4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,fraldas_higiene,3,3.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,industria_comercio_e_negocios,26,40.0,-14.0,14.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,industria_comercio_e_negocios,14,26.0,-12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,industria_comercio_e_negocios,10,14.0,-4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,informatica_acessorios,401,453.0,-52.0,52.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,informatica_acessorios,418,401.0,17.0,17.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,informatica_acessorios,415,418.0,-3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,instrumentos_musicais,47,61.0,-14.0,14.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,instrumentos_musicais,36,47.0,-11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,instrumentos_musicais,41,36.0,5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,la_cuisine,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,la_cuisine,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,la_cuisine,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,livros_importados,9,10.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,livros_importados,7,9.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,livros_importados,1,7.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,livros_interesse_geral,38,50.0,-12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,livros_interesse_geral,25,38.0,-13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,livros_interesse_geral,36,25.0,11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,livros_tecnicos,26,55.0,-29.0,29.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,livros_tecnicos,26,26.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,livros_tecnicos,29,26.0,3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,malas_acessorios,36,49.0,-13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,malas_acessorios,54,36.0,18.0,18.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,malas_acessorios,64,54.0,10.0,10.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,market_place,7,14.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,market_place,4,7.0,-3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,market_place,8,4.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,moveis_colchao_e_estofado,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,moveis_colchao_e_estofado,1,0.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,moveis_colchao_e_estofado,0,1.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,moveis_cozinha_area_de_servico_jantar_e_jardim,29,13.0,16.0,16.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,moveis_cozinha_area_de_servico_jantar_e_jardim,22,29.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,moveis_cozinha_area_de_servico_jantar_e_jardim,20,22.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,moveis_decoracao,402,597.0,-195.0,195.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,moveis_decoracao,436,402.0,34.0,34.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,moveis_decoracao,430,436.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,moveis_escritorio,76,104.0,-28.0,28.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,moveis_escritorio,80,76.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,moveis_escritorio,30,80.0,-50.0,50.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,moveis_quarto,9,6.0,3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,moveis_quarto,10,9.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,moveis_quarto,12,10.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,moveis_sala,29,16.0,13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,moveis_sala,54,29.0,25.0,25.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,moveis_sala,40,54.0,-14.0,14.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,musica,3,5.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,musica,3,3.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,musica,6,3.0,3.0,3.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,papelaria,167,130.0,37.0,37.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,papelaria,190,167.0,23.0,23.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,papelaria,169,190.0,-21.0,21.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,pc_gamer,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,pc_gamer,2,0.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,pc_gamer,1,2.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,pcs,13,13.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,pcs,8,13.0,-5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,pcs,12,8.0,4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,perfumaria,186,197.0,-11.0,11.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,perfumaria,199,186.0,13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,perfumaria,218,199.0,19.0,19.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,pet_shop,178,136.0,42.0,42.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,pet_shop,158,178.0,-20.0,20.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,pet_shop,198,158.0,40.0,40.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,portateis_casa_forno_e_cafe,3,9.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,portateis_casa_forno_e_cafe,15,3.0,12.0,12.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,portateis_casa_forno_e_cafe,17,15.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,portateis_cozinha_e_preparadores_de_alimentos,0,2.0,-2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,portateis_cozinha_e_preparadores_de_alimentos,8,0.0,8.0,8.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,portateis_cozinha_e_preparadores_de_alimentos,4,8.0,-4.0,4.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,relogios_presentes,477,625.0,-148.0,148.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,relogios_presentes,521,477.0,44.0,44.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,relogios_presentes,411,521.0,-110.0,110.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,seguros_e_servicos,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,seguros_e_servicos,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,seguros_e_servicos,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,sinalizacao_e_seguranca,27,7.0,20.0,20.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,sinalizacao_e_seguranca,29,27.0,2.0,2.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,sinalizacao_e_seguranca,22,29.0,-7.0,7.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,tablets_impressao_imagem,1,1.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,tablets_impressao_imagem,0,1.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,tablets_impressao_imagem,0,0.0,0.0,0.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,telefonia,216,250.0,-34.0,34.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,telefonia,221,216.0,5.0,5.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,telefonia,271,221.0,50.0,50.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,telefonia_fixa,17,16.0,1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,telefonia_fixa,11,17.0,-6.0,6.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,telefonia_fixa,10,11.0,-1.0,1.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,utilidades_domesticas,577,618.0,-41.0,41.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-07-01,utilidades_domesticas,564,577.0,-13.0,13.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-08-01,utilidades_domesticas,616,564.0,52.0,52.0,Sem Pareto (74 categorias),Naive (mês anterior)
+2018-06-01,agro_industria_e_comercio,10,17.84803997641211,-7.84803997641211,7.84803997641211,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,agro_industria_e_comercio,27,18.724056265171384,8.275943734828616,8.275943734828616,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,agro_industria_e_comercio,18,27.36982149096002,-9.36982149096002,9.36982149096002,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,alimentos,24,44.64050109062737,-20.640501090627367,20.640501090627367,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,alimentos,64,39.81165528481506,24.18834471518494,24.18834471518494,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,alimentos,115,51.97963502735729,63.02036497264271,63.02036497264271,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,alimentos_bebidas,11,28.57237071455529,-17.57237071455529,17.57237071455529,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,alimentos_bebidas,17,26.71085468224192,-9.710854682241916,9.710854682241916,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,alimentos_bebidas,21,26.974406500314217,-5.974406500314217,5.974406500314217,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,artes,28,32.75961793484021,-4.759617934840208,4.759617934840208,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,artes,21,35.39964872369819,-14.399648723698192,14.399648723698192,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,artes,18,32.70302265488863,-14.703022654888628,14.703022654888628,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,artes_e_artesanato,0,7.6308336191978015,-7.6308336191978015,7.6308336191978015,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,artes_e_artesanato,11,9.15816520448061,1.8418347955193892,1.8418347955193892,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,artes_e_artesanato,9,14.737621396478062,-5.737621396478062,5.737621396478062,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,artigos_de_festas,2,10.006719706543665,-8.006719706543663,8.006719706543663,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,artigos_de_festas,2,11.44306064941702,-9.44306064941702,9.44306064941702,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,artigos_de_festas,14,12.397909366642123,1.602090633357875,1.602090633357875,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,artigos_de_natal,7,16.202898704887048,-9.202898704887048,9.202898704887048,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,artigos_de_natal,8,16.807423962840403,-8.807423962840403,8.807423962840403,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,artigos_de_natal,10,18.61090233201321,-8.610902332013211,8.610902332013211,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,audio,20,31.98542918307794,-11.98542918307794,11.98542918307794,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,audio,22,30.51279384496229,-8.512793844962289,8.512793844962289,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,audio,26,31.96185618525124,-5.961856185251236,5.961856185251236,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,automotivo,295,320.66316085244034,-25.663160852440345,25.663160852440345,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,automotivo,341,306.6795146909899,34.32048530901011,34.32048530901011,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,automotivo,370,321.05502162270204,48.94497837729796,48.94497837729796,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,bebes,223,238.13073550742047,-15.130735507420468,15.130735507420468,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,bebes,214,235.19858842249232,-21.19858842249232,21.19858842249232,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,bebes,212,228.59512782549427,-16.595127825494274,16.595127825494274,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,bebidas,33,50.84681001087301,-17.846810010873014,17.846810010873014,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,bebidas,16,46.74512963949746,-30.745129639497463,30.745129639497463,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,bebidas,27,37.02511067374871,-10.025110673748712,10.025110673748712,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,beleza_saude,875,701.104202071554,173.89579792844597,173.89579792844597,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,beleza_saude,770,773.0035202910585,-3.0035202910585213,3.0035202910585213,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,beleza_saude,835,770.0168731264785,64.98312687352154,64.98312687352154,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,brinquedos,190,234.82385304070704,-44.82385304070704,44.82385304070704,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,brinquedos,154,228.7401542962325,-74.7401542962325,74.7401542962325,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,brinquedos,165,208.5606457870308,-43.56064578703081,43.56064578703081,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,cama_mesa_banho,764,751.128022635301,12.871977364698978,12.871977364698978,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,cama_mesa_banho,617,761.7961974219943,-144.7961974219943,144.7961974219943,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,cama_mesa_banho,655,710.7554539256962,-55.7554539256962,55.7554539256962,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,casa_conforto,16,28.99979647657165,-12.999796476571646,12.999796476571646,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,casa_conforto,23,29.55399537312041,-6.553995373120415,6.553995373120415,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,casa_conforto,16,32.54534040540966,-16.54534040540966,16.54534040540966,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,casa_conforto_2,2,7.368319384877395,-5.368319384877395,5.368319384877395,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,casa_conforto_2,3,9.777793016492067,-6.777793016492069,6.777793016492069,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,casa_conforto_2,0,12.108920376667813,-12.108920376667813,12.108920376667813,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,casa_construcao,71,74.98715215077755,-3.987152150777547,3.987152150777547,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,casa_construcao,60,76.34185642587545,-16.34185642587545,16.34185642587545,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,casa_construcao,48,71.27109346691213,-23.27109346691213,23.27109346691213,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,categoria_desconhecida,23,75.84563970019008,-52.84563970019008,52.84563970019008,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,categoria_desconhecida,47,58.16617148728619,-11.166171487286192,11.166171487286192,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,categoria_desconhecida,31,62.36961862889075,-31.36961862889075,31.36961862889075,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,cds_dvds_musicais,0,7.364123497871333,-7.364123497871333,7.364123497871333,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,cds_dvds_musicais,0,9.015198415127088,-9.015198415127088,9.015198415127088,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,cds_dvds_musicais,0,10.38197992248388,-10.38197992248388,10.38197992248388,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,cine_foto,13,17.167670851718867,-4.167670851718867,4.167670851718867,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,cine_foto,7,20.697111113197025,-13.697111113197025,13.697111113197025,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,cine_foto,9,19.162789417780004,-10.162789417780004,10.162789417780004,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,climatizacao,15,24.03117037687116,-9.03117037687116,9.03117037687116,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,climatizacao,17,23.74560348383602,-6.745603483836021,6.745603483836021,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,climatizacao,21,25.80455713482661,-4.804557134826609,4.804557134826609,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,consoles_games,43,58.73826879736589,-15.73826879736589,15.73826879736589,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,consoles_games,49,59.50564374542592,-10.505643745425914,10.505643745425914,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,consoles_games,59,61.41764791562309,-2.417647915623093,2.417647915623093,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,construcao_ferramentas_construcao,113,104.48192382300476,8.518076176995237,8.518076176995237,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,construcao_ferramentas_construcao,115,112.51116041668502,2.4888395833149843,2.4888395833149843,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,construcao_ferramentas_construcao,162,113.10504687033244,48.89495312966756,48.89495312966756,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,construcao_ferramentas_ferramentas,4,16.13322571984827,-12.13322571984827,12.13322571984827,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,construcao_ferramentas_ferramentas,12,14.644574632751755,-2.6445746327517554,2.6445746327517554,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,construcao_ferramentas_ferramentas,14,18.418322746267226,-4.418322746267222,4.418322746267222,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,construcao_ferramentas_iluminacao,44,41.79452180409498,2.205478195905016,2.205478195905016,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,construcao_ferramentas_iluminacao,55,45.26081282734594,9.739187172654056,9.739187172654056,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,construcao_ferramentas_iluminacao,62,52.35626823002531,9.643731769974693,9.643731769974693,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,construcao_ferramentas_jardim,11,24.00554389921672,-13.005543899216718,13.005543899216718,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,construcao_ferramentas_jardim,22,23.109248964210565,-1.1092489642105647,1.1092489642105647,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,construcao_ferramentas_jardim,23,27.46892253479018,-4.468922534790181,4.468922534790181,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,construcao_ferramentas_seguranca,16,27.691060483321053,-11.691060483321053,11.691060483321053,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,construcao_ferramentas_seguranca,15,26.687759156920947,-11.687759156920947,11.687759156920947,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,construcao_ferramentas_seguranca,25,25.91990182018708,-0.9199018201870786,0.9199018201870786,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,cool_stuff,103,214.55629897373365,-111.55629897373365,111.55629897373365,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,cool_stuff,115,176.34186603343915,-61.341866033439146,61.341866033439146,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,cool_stuff,119,160.8968282032074,-41.896828203207406,41.896828203207406,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,dvds_blu_ray,6,12.2428729823514,-6.2428729823514,6.2428729823514,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,dvds_blu_ray,1,14.429585508481978,-13.429585508481978,13.429585508481978,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,dvds_blu_ray,1,13.644914204727684,-12.644914204727684,12.644914204727684,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,eletrodomesticos,65,80.84192354708648,-15.84192354708648,15.84192354708648,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,eletrodomesticos,78,73.6022676603352,4.397732339664799,4.397732339664799,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,eletrodomesticos,63,78.57042867165364,-15.570428671653644,15.570428671653644,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,eletrodomesticos_2,19,27.88588698523381,-8.88588698523381,8.88588698523381,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,eletrodomesticos_2,23,28.696282355194853,-5.696282355194853,5.696282355194853,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,eletrodomesticos_2,14,30.60752682057864,-16.60752682057864,16.60752682057864,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,eletronicos,191,229.5813084286965,-38.5813084286965,38.5813084286965,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,eletronicos,151,218.55057916530492,-67.55057916530495,67.55057916530495,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,eletronicos,119,193.54135277414755,-74.54135277414753,74.54135277414753,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,eletroportateis,49,57.41283095100152,-8.412830951001524,8.412830951001524,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,eletroportateis,42,56.18912466002439,-14.18912466002439,14.18912466002439,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,eletroportateis,23,54.16717408944896,-31.167174089448963,31.167174089448963,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,esporte_lazer,419,559.8007272028444,-140.80072720284443,140.80072720284443,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,esporte_lazer,460,499.0014537642128,-39.00145376421278,39.00145376421278,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,esporte_lazer,471,492.5648830203973,-21.564883020397247,21.564883020397247,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_bolsas_e_acessorios,87,120.26464234853847,-33.26464234853847,33.26464234853847,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_bolsas_e_acessorios,74,113.36518218134734,-39.365182181347336,39.365182181347336,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_bolsas_e_acessorios,126,103.48147679422618,22.518523205773818,22.518523205773818,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_calcados,10,18.6546218736803,-8.654621873680298,8.654621873680298,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_calcados,5,20.256207160793565,-15.256207160793563,15.256207160793563,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_calcados,3,19.603267806887743,-16.603267806887743,16.603267806887743,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_esporte,0,7.612680786372948,-7.612680786372948,7.612680786372948,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_esporte,0,9.214266073482577,-9.214266073482577,9.214266073482577,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_esporte,1,10.581047580839368,-9.581047580839368,9.581047580839368,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_roupa_feminina,0,9.06333630339941,-9.06333630339941,9.06333630339941,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_roupa_feminina,0,9.593607859525946,-9.593607859525946,9.593607859525946,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_roupa_feminina,3,10.762430846305506,-7.762430846305506,7.762430846305506,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_roupa_infanto_juvenil,1,7.017664208276983,-6.017664208276983,6.017664208276983,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_roupa_infanto_juvenil,0,9.204415247633731,-9.204415247633731,9.204415247633731,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_roupa_infanto_juvenil,0,10.496943053160066,-10.496943053160066,10.496943053160066,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_roupa_masculina,7,8.688960580046114,-1.688960580046114,1.688960580046114,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_roupa_masculina,5,13.04390137109658,-8.043901371096581,8.043901371096581,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_roupa_masculina,3,15.333489205782826,-12.333489205782826,12.333489205782826,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fashion_underwear_e_moda_praia,7,13.013097151680997,-6.013097151680995,6.013097151680995,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fashion_underwear_e_moda_praia,2,15.348317081472487,-13.348317081472487,13.348317081472487,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fashion_underwear_e_moda_praia,1,15.02506819798873,-14.02506819798873,14.02506819798873,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,ferramentas_jardim,184,294.2003372438339,-110.20033724383391,110.20033724383391,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,ferramentas_jardim,177,257.1883337728032,-80.18833377280316,80.18833377280316,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,ferramentas_jardim,136,226.93304609606275,-90.93304609606275,90.93304609606275,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,flores,2,8.877207839592302,-6.877207839592302,6.877207839592302,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,flores,2,10.60253645867124,-8.602536458671239,8.602536458671239,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,flores,0,12.200029176168757,-12.200029176168757,12.200029176168757,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,fraldas_higiene,7,10.089476811324856,-3.0894768113248574,3.0894768113248574,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,fraldas_higiene,3,13.257349157305724,-10.257349157305724,10.257349157305724,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,fraldas_higiene,3,14.12915733677437,-11.12915733677437,11.12915733677437,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,industria_comercio_e_negocios,26,46.5684490229396,-20.568449022939603,20.568449022939603,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,industria_comercio_e_negocios,14,40.34015693857509,-26.34015693857509,26.34015693857509,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,industria_comercio_e_negocios,10,32.342921053226746,-22.342921053226743,22.342921053226743,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,informatica_acessorios,401,518.0761668005616,-117.07616680056162,117.07616680056162,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,informatica_acessorios,418,467.41251747804927,-49.41251747804927,49.41251747804927,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,informatica_acessorios,415,457.5126528486908,-42.51265284869078,42.51265284869078,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,instrumentos_musicais,47,64.58731121435994,-17.587311214359943,17.587311214359943,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,instrumentos_musicais,36,61.44050718150538,-25.44050718150538,25.44050718150538,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,instrumentos_musicais,41,54.54007029041895,-13.540070290418951,13.540070290418951,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,la_cuisine,0,7.724659219198656,-7.724659219198656,7.724659219198656,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,la_cuisine,0,9.095533296171196,-9.095533296171196,9.095533296171196,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,la_cuisine,0,10.412825173381862,-10.412825173381862,10.412825173381862,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,livros_importados,9,13.4838056055778,-4.4838056055778,4.4838056055778,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,livros_importados,7,16.692342232559895,-9.692342232559897,9.692342232559897,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,livros_importados,1,17.317461966129486,-16.317461966129486,16.317461966129486,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,livros_interesse_geral,38,52.76698938105619,-14.766989381056192,14.766989381056192,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,livros_interesse_geral,25,50.62603221328391,-25.626032213283903,25.626032213283903,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,livros_interesse_geral,36,43.47810865825159,-7.478108658251585,7.478108658251585,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,livros_tecnicos,26,43.017603353415325,-17.017603353415325,17.017603353415325,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,livros_tecnicos,26,42.448373155366426,-16.448373155366426,16.448373155366426,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,livros_tecnicos,29,37.32248808928125,-8.32248808928125,8.32248808928125,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,malas_acessorios,36,63.29092928007958,-27.29092928007958,27.29092928007958,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,malas_acessorios,54,57.72932407607732,-3.729324076077319,3.729324076077319,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,malas_acessorios,64,62.37806234931122,1.6219376506887784,1.6219376506887784,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,market_place,7,21.663441964054076,-14.663441964054073,14.663441964054073,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,market_place,4,20.338438785111062,-16.338438785111066,16.338438785111066,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,market_place,8,18.531981893731427,-10.531981893731428,10.531981893731428,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,moveis_colchao_e_estofado,0,7.69192472731811,-7.69192472731811,7.69192472731811,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,moveis_colchao_e_estofado,1,9.37575233413736,-8.37575233413736,8.37575233413736,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,moveis_colchao_e_estofado,0,11.195967643889162,-11.195967643889162,11.195967643889162,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,moveis_cozinha_area_de_servico_jantar_e_jardim,29,22.672444936219108,6.327555063780892,6.327555063780892,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,moveis_cozinha_area_de_servico_jantar_e_jardim,22,29.682560188972275,-7.682560188972275,7.682560188972275,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,moveis_cozinha_area_de_servico_jantar_e_jardim,20,32.45749778435129,-12.45749778435129,12.45749778435129,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,moveis_decoracao,402,580.2982298930074,-178.29822989300737,178.29822989300737,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,moveis_decoracao,436,506.6415805646611,-70.64158056466113,70.64158056466113,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,moveis_decoracao,430,467.6971756353305,-37.697175635330495,37.697175635330495,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,moveis_escritorio,76,124.79247131150623,-48.79247131150623,48.79247131150623,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,moveis_escritorio,80,104.383613448299,-24.383613448299,24.383613448299,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,moveis_escritorio,30,98.2338177330348,-68.23381773303481,68.23381773303481,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,moveis_quarto,9,13.110160788281064,-4.110160788281064,4.110160788281064,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,moveis_quarto,10,15.973068222298023,-5.973068222298025,5.973068222298025,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,moveis_quarto,12,18.584396422749705,-6.584396422749705,6.584396422749705,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,moveis_sala,29,29.35661373594121,-0.3566137359412096,0.3566137359412096,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,moveis_sala,54,32.419114639833424,21.580885360166576,21.580885360166576,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,moveis_sala,40,46.7352772948725,-6.735277294872503,6.735277294872503,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,musica,3,11.07858971208043,-8.07858971208043,8.07858971208043,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,musica,3,12.300956385395692,-9.300956385395692,9.300956385395692,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,musica,6,13.156825842332182,-7.156825842332182,7.156825842332182,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,papelaria,167,152.75380527838934,14.246194721610664,14.246194721610664,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,papelaria,190,162.87272136134925,27.12727863865075,27.12727863865075,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,papelaria,169,182.85836768793524,-13.858367687935242,13.858367687935242,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,pc_gamer,0,6.889103992183664,-6.889103992183664,6.889103992183664,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,pc_gamer,2,8.770890119576507,-6.7708901195765065,6.7708901195765065,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,pc_gamer,1,10.995049601580831,-9.995049601580831,9.995049601580831,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,pcs,13,20.34863968476202,-7.34863968476202,7.34863968476202,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,pcs,8,22.412368583747597,-14.412368583747591,14.412368583747591,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,pcs,12,21.709939599699283,-9.709939599699284,9.709939599699284,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,perfumaria,186,201.09727483397728,-15.09727483397728,15.09727483397728,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,perfumaria,199,203.792543269632,-4.792543269632006,4.792543269632006,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,perfumaria,218,208.516140896616,9.48385910338402,9.48385910338402,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,pet_shop,178,147.03936780159347,30.96063219840653,30.96063219840653,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,pet_shop,158,159.65832768145992,-1.658327681459923,1.658327681459923,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,pet_shop,198,163.27946176143814,34.72053823856186,34.72053823856186,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,portateis_casa_forno_e_cafe,3,15.961752543480545,-12.961752543480545,12.961752543480545,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,portateis_casa_forno_e_cafe,15,14.596008057087602,0.4039919429123983,0.4039919429123983,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,portateis_casa_forno_e_cafe,17,18.980445699355187,-1.9804456993551869,1.9804456993551869,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,portateis_cozinha_e_preparadores_de_alimentos,0,7.742417516019486,-7.742417516019486,7.742417516019486,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,portateis_cozinha_e_preparadores_de_alimentos,8,9.376716979473713,-1.3767169794737129,1.3767169794737129,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,portateis_cozinha_e_preparadores_de_alimentos,4,13.56311907471536,-9.56311907471536,9.56311907471536,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,relogios_presentes,477,541.6190438213016,-64.6190438213016,64.6190438213016,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,relogios_presentes,521,524.0361455327293,-3.036145532729279,3.036145532729279,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,relogios_presentes,411,508.2393774364282,-97.2393774364282,97.2393774364282,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,seguros_e_servicos,0,6.808453132929571,-6.808453132929571,6.808453132929571,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,seguros_e_servicos,0,8.690239260322414,-8.690239260322414,8.690239260322414,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,seguros_e_servicos,0,10.106510397821694,-10.106510397821694,10.106510397821694,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,sinalizacao_e_seguranca,27,23.64644940850121,3.353550591498788,3.353550591498788,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,sinalizacao_e_seguranca,29,26.817514626647608,2.1824853733523923,2.1824853733523923,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,sinalizacao_e_seguranca,22,33.21049164012584,-11.210491640125838,11.210491640125838,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,tablets_impressao_imagem,1,8.56016990617718,-7.56016990617718,7.56016990617718,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,tablets_impressao_imagem,0,10.342976773281409,-10.342976773281409,10.342976773281409,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,tablets_impressao_imagem,0,11.355303738528164,-11.355303738528164,11.355303738528164,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,telefonia,216,277.27452575672214,-61.27452575672214,61.27452575672214,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,telefonia,221,254.57445600144277,-33.57445600144274,33.57445600144274,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,telefonia,271,247.04842015645045,23.951579843549556,23.951579843549556,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,telefonia_fixa,17,19.291235751396016,-2.291235751396016,2.291235751396016,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,telefonia_fixa,11,22.829501362019077,-11.829501362019071,11.829501362019071,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,telefonia_fixa,10,22.349756457002517,-12.349756457002512,12.349756457002512,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,utilidades_domesticas,577,527.699692466038,49.30030753396204,49.30030753396204,Sem Pareto (74 categorias),Linear Regression
+2018-07-01,utilidades_domesticas,564,560.2943519854125,3.705648014587496,3.705648014587496,Sem Pareto (74 categorias),Linear Regression
+2018-08-01,utilidades_domesticas,616,552.691496734471,63.308503265529,63.308503265529,Sem Pareto (74 categorias),Linear Regression
+2018-06-01,agro_industria_e_comercio,10,14.995,-4.994999999999999,4.994999999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,agro_industria_e_comercio,27,10.66,16.34,16.34,Sem Pareto (74 categorias),Random Forest
+2018-08-01,agro_industria_e_comercio,18,28.39,-10.39,10.39,Sem Pareto (74 categorias),Random Forest
+2018-06-01,alimentos,24,38.88,-14.880000000000004,14.880000000000004,Sem Pareto (74 categorias),Random Forest
+2018-07-01,alimentos,64,36.485,27.515,27.515,Sem Pareto (74 categorias),Random Forest
+2018-08-01,alimentos,115,55.31,59.69,59.69,Sem Pareto (74 categorias),Random Forest
+2018-06-01,alimentos_bebidas,11,21.37,-10.37,10.37,Sem Pareto (74 categorias),Random Forest
+2018-07-01,alimentos_bebidas,17,21.075,-4.074999999999999,4.074999999999999,Sem Pareto (74 categorias),Random Forest
+2018-08-01,alimentos_bebidas,21,20.765,0.2349999999999994,0.2349999999999994,Sem Pareto (74 categorias),Random Forest
+2018-06-01,artes,28,28.36,-0.3599999999999994,0.3599999999999994,Sem Pareto (74 categorias),Random Forest
+2018-07-01,artes,21,37.31,-16.310000000000002,16.310000000000002,Sem Pareto (74 categorias),Random Forest
+2018-08-01,artes,18,25.375,-7.375,7.375,Sem Pareto (74 categorias),Random Forest
+2018-06-01,artes_e_artesanato,0,0.41,-0.41,0.41,Sem Pareto (74 categorias),Random Forest
+2018-07-01,artes_e_artesanato,11,0.745,10.255,10.255,Sem Pareto (74 categorias),Random Forest
+2018-08-01,artes_e_artesanato,9,7.865,1.1349999999999998,1.1349999999999998,Sem Pareto (74 categorias),Random Forest
+2018-06-01,artigos_de_festas,2,3.78,-1.7799999999999998,1.7799999999999998,Sem Pareto (74 categorias),Random Forest
+2018-07-01,artigos_de_festas,2,3.205,-1.205,1.205,Sem Pareto (74 categorias),Random Forest
+2018-08-01,artigos_de_festas,14,3.48,10.52,10.52,Sem Pareto (74 categorias),Random Forest
+2018-06-01,artigos_de_natal,7,9.07,-2.0700000000000003,2.0700000000000003,Sem Pareto (74 categorias),Random Forest
+2018-07-01,artigos_de_natal,8,8.12,-0.1199999999999992,0.1199999999999992,Sem Pareto (74 categorias),Random Forest
+2018-08-01,artigos_de_natal,10,12.275,-2.2750000000000004,2.2750000000000004,Sem Pareto (74 categorias),Random Forest
+2018-06-01,audio,20,25.71,-5.710000000000001,5.710000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,audio,22,23.71,-1.7100000000000009,1.7100000000000009,Sem Pareto (74 categorias),Random Forest
+2018-08-01,audio,26,21.435,4.565000000000001,4.565000000000001,Sem Pareto (74 categorias),Random Forest
+2018-06-01,automotivo,295,322.61,-27.610000000000014,27.610000000000014,Sem Pareto (74 categorias),Random Forest
+2018-07-01,automotivo,341,316.145,24.855000000000015,24.855000000000015,Sem Pareto (74 categorias),Random Forest
+2018-08-01,automotivo,370,336.87,33.129999999999995,33.129999999999995,Sem Pareto (74 categorias),Random Forest
+2018-06-01,bebes,223,241.89,-18.889999999999983,18.889999999999983,Sem Pareto (74 categorias),Random Forest
+2018-07-01,bebes,214,238.25,-24.25,24.25,Sem Pareto (74 categorias),Random Forest
+2018-08-01,bebes,212,236.25,-24.25,24.25,Sem Pareto (74 categorias),Random Forest
+2018-06-01,bebidas,33,56.01,-23.01,23.01,Sem Pareto (74 categorias),Random Forest
+2018-07-01,bebidas,16,59.42,-43.42,43.42,Sem Pareto (74 categorias),Random Forest
+2018-08-01,bebidas,27,33.52,-6.520000000000003,6.520000000000003,Sem Pareto (74 categorias),Random Forest
+2018-06-01,beleza_saude,875,682.25,192.75,192.75,Sem Pareto (74 categorias),Random Forest
+2018-07-01,beleza_saude,770,644.67,125.33000000000004,125.33000000000004,Sem Pareto (74 categorias),Random Forest
+2018-08-01,beleza_saude,835,636.035,198.96500000000003,198.96500000000003,Sem Pareto (74 categorias),Random Forest
+2018-06-01,brinquedos,190,229.96,-39.96000000000001,39.96000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,brinquedos,154,220.71,-66.71000000000001,66.71000000000001,Sem Pareto (74 categorias),Random Forest
+2018-08-01,brinquedos,165,183.595,-18.595,18.595,Sem Pareto (74 categorias),Random Forest
+2018-06-01,cama_mesa_banho,764,690.29,73.71000000000004,73.71000000000004,Sem Pareto (74 categorias),Random Forest
+2018-07-01,cama_mesa_banho,617,696.445,-79.44500000000005,79.44500000000005,Sem Pareto (74 categorias),Random Forest
+2018-08-01,cama_mesa_banho,655,679.995,-24.995000000000005,24.995000000000005,Sem Pareto (74 categorias),Random Forest
+2018-06-01,casa_conforto,16,19.915,-3.914999999999999,3.914999999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,casa_conforto,23,21.075,1.9250000000000007,1.9250000000000007,Sem Pareto (74 categorias),Random Forest
+2018-08-01,casa_conforto,16,21.06,-5.059999999999999,5.059999999999999,Sem Pareto (74 categorias),Random Forest
+2018-06-01,casa_conforto_2,2,1.28,0.72,0.72,Sem Pareto (74 categorias),Random Forest
+2018-07-01,casa_conforto_2,3,1.145,1.855,1.855,Sem Pareto (74 categorias),Random Forest
+2018-08-01,casa_conforto_2,0,2.65,-2.65,2.65,Sem Pareto (74 categorias),Random Forest
+2018-06-01,casa_construcao,71,79.78,-8.780000000000001,8.780000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,casa_construcao,60,88.645,-28.645,28.645,Sem Pareto (74 categorias),Random Forest
+2018-08-01,casa_construcao,48,75.085,-27.084999999999997,27.084999999999997,Sem Pareto (74 categorias),Random Forest
+2018-06-01,categoria_desconhecida,23,87.43,-64.43,64.43,Sem Pareto (74 categorias),Random Forest
+2018-07-01,categoria_desconhecida,47,54.11,-7.109999999999999,7.109999999999999,Sem Pareto (74 categorias),Random Forest
+2018-08-01,categoria_desconhecida,31,46.505,-15.505000000000004,15.505000000000004,Sem Pareto (74 categorias),Random Forest
+2018-06-01,cds_dvds_musicais,0,0.885,-0.885,0.885,Sem Pareto (74 categorias),Random Forest
+2018-07-01,cds_dvds_musicais,0,2.625,-2.625,2.625,Sem Pareto (74 categorias),Random Forest
+2018-08-01,cds_dvds_musicais,0,2.94,-2.94,2.94,Sem Pareto (74 categorias),Random Forest
+2018-06-01,cine_foto,13,13.14,-0.1400000000000005,0.1400000000000005,Sem Pareto (74 categorias),Random Forest
+2018-07-01,cine_foto,7,11.705,-4.705,4.705,Sem Pareto (74 categorias),Random Forest
+2018-08-01,cine_foto,9,13.08,-4.08,4.08,Sem Pareto (74 categorias),Random Forest
+2018-06-01,climatizacao,15,18.475,-3.4750000000000014,3.4750000000000014,Sem Pareto (74 categorias),Random Forest
+2018-07-01,climatizacao,17,18.58,-1.5799999999999983,1.5799999999999983,Sem Pareto (74 categorias),Random Forest
+2018-08-01,climatizacao,21,19.695,1.3049999999999995,1.3049999999999995,Sem Pareto (74 categorias),Random Forest
+2018-06-01,consoles_games,43,51.12,-8.119999999999997,8.119999999999997,Sem Pareto (74 categorias),Random Forest
+2018-07-01,consoles_games,49,63.11,-14.11,14.11,Sem Pareto (74 categorias),Random Forest
+2018-08-01,consoles_games,59,71.3,-12.299999999999995,12.299999999999995,Sem Pareto (74 categorias),Random Forest
+2018-06-01,construcao_ferramentas_construcao,113,118.81,-5.810000000000002,5.810000000000002,Sem Pareto (74 categorias),Random Forest
+2018-07-01,construcao_ferramentas_construcao,115,164.975,-49.975,49.975,Sem Pareto (74 categorias),Random Forest
+2018-08-01,construcao_ferramentas_construcao,162,145.38,16.620000000000005,16.620000000000005,Sem Pareto (74 categorias),Random Forest
+2018-06-01,construcao_ferramentas_ferramentas,4,13.075,-9.075,9.075,Sem Pareto (74 categorias),Random Forest
+2018-07-01,construcao_ferramentas_ferramentas,12,7.355,4.645,4.645,Sem Pareto (74 categorias),Random Forest
+2018-08-01,construcao_ferramentas_ferramentas,14,10.815,3.1850000000000005,3.1850000000000005,Sem Pareto (74 categorias),Random Forest
+2018-06-01,construcao_ferramentas_iluminacao,44,40.115,3.884999999999998,3.884999999999998,Sem Pareto (74 categorias),Random Forest
+2018-07-01,construcao_ferramentas_iluminacao,55,63.095,-8.094999999999999,8.094999999999999,Sem Pareto (74 categorias),Random Forest
+2018-08-01,construcao_ferramentas_iluminacao,62,60.53,1.4699999999999989,1.4699999999999989,Sem Pareto (74 categorias),Random Forest
+2018-06-01,construcao_ferramentas_jardim,11,18.775,-7.774999999999999,7.774999999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,construcao_ferramentas_jardim,22,16.74,5.260000000000002,5.260000000000002,Sem Pareto (74 categorias),Random Forest
+2018-08-01,construcao_ferramentas_jardim,23,17.595,5.405000000000001,5.405000000000001,Sem Pareto (74 categorias),Random Forest
+2018-06-01,construcao_ferramentas_seguranca,16,20.415,-4.414999999999999,4.414999999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,construcao_ferramentas_seguranca,15,20.22,-5.219999999999999,5.219999999999999,Sem Pareto (74 categorias),Random Forest
+2018-08-01,construcao_ferramentas_seguranca,25,20.635,4.364999999999998,4.364999999999998,Sem Pareto (74 categorias),Random Forest
+2018-06-01,cool_stuff,103,206.155,-103.155,103.155,Sem Pareto (74 categorias),Random Forest
+2018-07-01,cool_stuff,115,143.925,-28.92500000000001,28.92500000000001,Sem Pareto (74 categorias),Random Forest
+2018-08-01,cool_stuff,119,155.145,-36.14500000000001,36.14500000000001,Sem Pareto (74 categorias),Random Forest
+2018-06-01,dvds_blu_ray,6,5.53,0.4699999999999997,0.4699999999999997,Sem Pareto (74 categorias),Random Forest
+2018-07-01,dvds_blu_ray,1,6.34,-5.34,5.34,Sem Pareto (74 categorias),Random Forest
+2018-08-01,dvds_blu_ray,1,4.86,-3.86,3.86,Sem Pareto (74 categorias),Random Forest
+2018-06-01,eletrodomesticos,65,84.625,-19.625,19.625,Sem Pareto (74 categorias),Random Forest
+2018-07-01,eletrodomesticos,78,90.665,-12.665000000000006,12.665000000000006,Sem Pareto (74 categorias),Random Forest
+2018-08-01,eletrodomesticos,63,82.555,-19.555000000000007,19.555000000000007,Sem Pareto (74 categorias),Random Forest
+2018-06-01,eletrodomesticos_2,19,18.125,0.875,0.875,Sem Pareto (74 categorias),Random Forest
+2018-07-01,eletrodomesticos_2,23,22.56,0.4400000000000013,0.4400000000000013,Sem Pareto (74 categorias),Random Forest
+2018-08-01,eletrodomesticos_2,14,20.925,-6.925000000000001,6.925000000000001,Sem Pareto (74 categorias),Random Forest
+2018-06-01,eletronicos,191,250.28,-59.28,59.28,Sem Pareto (74 categorias),Random Forest
+2018-07-01,eletronicos,151,225.805,-74.805,74.805,Sem Pareto (74 categorias),Random Forest
+2018-08-01,eletronicos,119,172.77,-53.77000000000001,53.77000000000001,Sem Pareto (74 categorias),Random Forest
+2018-06-01,eletroportateis,49,88.62,-39.620000000000005,39.620000000000005,Sem Pareto (74 categorias),Random Forest
+2018-07-01,eletroportateis,42,82.58,-40.58,40.58,Sem Pareto (74 categorias),Random Forest
+2018-08-01,eletroportateis,23,61.4,-38.4,38.4,Sem Pareto (74 categorias),Random Forest
+2018-06-01,esporte_lazer,419,575.6,-156.60000000000002,156.60000000000002,Sem Pareto (74 categorias),Random Forest
+2018-07-01,esporte_lazer,460,572.0,-112.0,112.0,Sem Pareto (74 categorias),Random Forest
+2018-08-01,esporte_lazer,471,534.175,-63.17499999999996,63.17499999999996,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_bolsas_e_acessorios,87,131.325,-44.32499999999999,44.32499999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_bolsas_e_acessorios,74,93.605,-19.605000000000004,19.605000000000004,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_bolsas_e_acessorios,126,82.885,43.115,43.115,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_calcados,10,11.025,-1.0250000000000004,1.0250000000000004,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_calcados,5,11.795,-6.795,6.795,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_calcados,3,7.56,-4.56,4.56,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_esporte,0,1.015,-1.015,1.015,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_esporte,0,1.13,-1.13,1.13,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_esporte,1,0.99,0.01,0.01,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_roupa_feminina,0,1.865,-1.865,1.865,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_roupa_feminina,0,1.785,-1.785,1.785,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_roupa_feminina,3,0.885,2.115,2.115,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_roupa_infanto_juvenil,1,0.795,0.2049999999999999,0.2049999999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_roupa_infanto_juvenil,0,0.57,-0.57,0.57,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_roupa_infanto_juvenil,0,0.485,-0.485,0.485,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_roupa_masculina,7,0.435,6.565,6.565,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_roupa_masculina,5,6.085,-1.085,1.085,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_roupa_masculina,3,5.645,-2.645,2.645,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fashion_underwear_e_moda_praia,7,6.3,0.7000000000000002,0.7000000000000002,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fashion_underwear_e_moda_praia,2,6.765,-4.765,4.765,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fashion_underwear_e_moda_praia,1,5.51,-4.51,4.51,Sem Pareto (74 categorias),Random Forest
+2018-06-01,ferramentas_jardim,184,298.825,-114.825,114.825,Sem Pareto (74 categorias),Random Forest
+2018-07-01,ferramentas_jardim,177,247.005,-70.005,70.005,Sem Pareto (74 categorias),Random Forest
+2018-08-01,ferramentas_jardim,136,222.855,-86.85499999999999,86.85499999999999,Sem Pareto (74 categorias),Random Forest
+2018-06-01,flores,2,3.9,-1.9,1.9,Sem Pareto (74 categorias),Random Forest
+2018-07-01,flores,2,3.585,-1.585,1.585,Sem Pareto (74 categorias),Random Forest
+2018-08-01,flores,0,3.17,-3.17,3.17,Sem Pareto (74 categorias),Random Forest
+2018-06-01,fraldas_higiene,7,3.12,3.88,3.88,Sem Pareto (74 categorias),Random Forest
+2018-07-01,fraldas_higiene,3,5.815,-2.8150000000000004,2.8150000000000004,Sem Pareto (74 categorias),Random Forest
+2018-08-01,fraldas_higiene,3,4.015,-1.0149999999999997,1.0149999999999997,Sem Pareto (74 categorias),Random Forest
+2018-06-01,industria_comercio_e_negocios,26,44.21,-18.21,18.21,Sem Pareto (74 categorias),Random Forest
+2018-07-01,industria_comercio_e_negocios,14,37.455,-23.455,23.455,Sem Pareto (74 categorias),Random Forest
+2018-08-01,industria_comercio_e_negocios,10,23.58,-13.579999999999998,13.579999999999998,Sem Pareto (74 categorias),Random Forest
+2018-06-01,informatica_acessorios,401,583.925,-182.92499999999995,182.92499999999995,Sem Pareto (74 categorias),Random Forest
+2018-07-01,informatica_acessorios,418,585.5,-167.5,167.5,Sem Pareto (74 categorias),Random Forest
+2018-08-01,informatica_acessorios,415,532.475,-117.47500000000002,117.47500000000002,Sem Pareto (74 categorias),Random Forest
+2018-06-01,instrumentos_musicais,47,70.485,-23.485,23.485,Sem Pareto (74 categorias),Random Forest
+2018-07-01,instrumentos_musicais,36,86.53,-50.53,50.53,Sem Pareto (74 categorias),Random Forest
+2018-08-01,instrumentos_musicais,41,60.19,-19.19,19.19,Sem Pareto (74 categorias),Random Forest
+2018-06-01,la_cuisine,0,1.685,-1.685,1.685,Sem Pareto (74 categorias),Random Forest
+2018-07-01,la_cuisine,0,2.085,-2.085,2.085,Sem Pareto (74 categorias),Random Forest
+2018-08-01,la_cuisine,0,1.18,-1.18,1.18,Sem Pareto (74 categorias),Random Forest
+2018-06-01,livros_importados,9,5.53,3.47,3.47,Sem Pareto (74 categorias),Random Forest
+2018-07-01,livros_importados,7,9.74,-2.74,2.74,Sem Pareto (74 categorias),Random Forest
+2018-08-01,livros_importados,1,10.78,-9.78,9.78,Sem Pareto (74 categorias),Random Forest
+2018-06-01,livros_interesse_geral,38,64.65,-26.65000000000001,26.65000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,livros_interesse_geral,25,60.575,-35.575,35.575,Sem Pareto (74 categorias),Random Forest
+2018-08-01,livros_interesse_geral,36,34.49,1.509999999999998,1.509999999999998,Sem Pareto (74 categorias),Random Forest
+2018-06-01,livros_tecnicos,26,36.435,-10.435000000000002,10.435000000000002,Sem Pareto (74 categorias),Random Forest
+2018-07-01,livros_tecnicos,26,45.18,-19.18,19.18,Sem Pareto (74 categorias),Random Forest
+2018-08-01,livros_tecnicos,29,40.155,-11.155,11.155,Sem Pareto (74 categorias),Random Forest
+2018-06-01,malas_acessorios,36,70.97,-34.97,34.97,Sem Pareto (74 categorias),Random Forest
+2018-07-01,malas_acessorios,54,62.085,-8.085,8.085,Sem Pareto (74 categorias),Random Forest
+2018-08-01,malas_acessorios,64,56.27,7.729999999999997,7.729999999999997,Sem Pareto (74 categorias),Random Forest
+2018-06-01,market_place,7,17.955,-10.954999999999998,10.954999999999998,Sem Pareto (74 categorias),Random Forest
+2018-07-01,market_place,4,11.92,-7.92,7.92,Sem Pareto (74 categorias),Random Forest
+2018-08-01,market_place,8,6.305,1.6950000000000005,1.6950000000000005,Sem Pareto (74 categorias),Random Forest
+2018-06-01,moveis_colchao_e_estofado,0,1.92,-1.92,1.92,Sem Pareto (74 categorias),Random Forest
+2018-07-01,moveis_colchao_e_estofado,1,1.135,-0.135,0.135,Sem Pareto (74 categorias),Random Forest
+2018-08-01,moveis_colchao_e_estofado,0,1.815,-1.815,1.815,Sem Pareto (74 categorias),Random Forest
+2018-06-01,moveis_cozinha_area_de_servico_jantar_e_jardim,29,17.17,11.829999999999998,11.829999999999998,Sem Pareto (74 categorias),Random Forest
+2018-07-01,moveis_cozinha_area_de_servico_jantar_e_jardim,22,27.09,-5.09,5.09,Sem Pareto (74 categorias),Random Forest
+2018-08-01,moveis_cozinha_area_de_servico_jantar_e_jardim,20,20.14,-0.1400000000000005,0.1400000000000005,Sem Pareto (74 categorias),Random Forest
+2018-06-01,moveis_decoracao,402,562.705,-160.70500000000004,160.70500000000004,Sem Pareto (74 categorias),Random Forest
+2018-07-01,moveis_decoracao,436,585.745,-149.745,149.745,Sem Pareto (74 categorias),Random Forest
+2018-08-01,moveis_decoracao,430,517.065,-87.06500000000005,87.06500000000005,Sem Pareto (74 categorias),Random Forest
+2018-06-01,moveis_escritorio,76,106.26,-30.260000000000005,30.260000000000005,Sem Pareto (74 categorias),Random Forest
+2018-07-01,moveis_escritorio,80,89.63,-9.629999999999995,9.629999999999995,Sem Pareto (74 categorias),Random Forest
+2018-08-01,moveis_escritorio,30,94.2,-64.2,64.2,Sem Pareto (74 categorias),Random Forest
+2018-06-01,moveis_quarto,9,6.225,2.7750000000000004,2.7750000000000004,Sem Pareto (74 categorias),Random Forest
+2018-07-01,moveis_quarto,10,8.025,1.975,1.975,Sem Pareto (74 categorias),Random Forest
+2018-08-01,moveis_quarto,12,11.225,0.7750000000000004,0.7750000000000004,Sem Pareto (74 categorias),Random Forest
+2018-06-01,moveis_sala,29,26.36,2.640000000000001,2.640000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,moveis_sala,54,26.17,27.83,27.83,Sem Pareto (74 categorias),Random Forest
+2018-08-01,moveis_sala,40,39.9,0.1000000000000014,0.1000000000000014,Sem Pareto (74 categorias),Random Forest
+2018-06-01,musica,3,4.225,-1.2249999999999996,1.2249999999999996,Sem Pareto (74 categorias),Random Forest
+2018-07-01,musica,3,4.16,-1.16,1.16,Sem Pareto (74 categorias),Random Forest
+2018-08-01,musica,6,3.9,2.1,2.1,Sem Pareto (74 categorias),Random Forest
+2018-06-01,papelaria,167,130.63,36.370000000000005,36.370000000000005,Sem Pareto (74 categorias),Random Forest
+2018-07-01,papelaria,190,157.72,32.28,32.28,Sem Pareto (74 categorias),Random Forest
+2018-08-01,papelaria,169,250.185,-81.185,81.185,Sem Pareto (74 categorias),Random Forest
+2018-06-01,pc_gamer,0,0.59,-0.59,0.59,Sem Pareto (74 categorias),Random Forest
+2018-07-01,pc_gamer,2,0.65,1.35,1.35,Sem Pareto (74 categorias),Random Forest
+2018-08-01,pc_gamer,1,0.84,0.16,0.16,Sem Pareto (74 categorias),Random Forest
+2018-06-01,pcs,13,10.485,2.515000000000001,2.515000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,pcs,8,7.71,0.29,0.29,Sem Pareto (74 categorias),Random Forest
+2018-08-01,pcs,12,11.125,0.875,0.875,Sem Pareto (74 categorias),Random Forest
+2018-06-01,perfumaria,186,209.63,-23.629999999999995,23.629999999999995,Sem Pareto (74 categorias),Random Forest
+2018-07-01,perfumaria,199,219.695,-20.694999999999997,20.694999999999997,Sem Pareto (74 categorias),Random Forest
+2018-08-01,perfumaria,218,213.145,4.85499999999999,4.85499999999999,Sem Pareto (74 categorias),Random Forest
+2018-06-01,pet_shop,178,163.37,14.629999999999995,14.629999999999995,Sem Pareto (74 categorias),Random Forest
+2018-07-01,pet_shop,158,186.97,-28.97,28.97,Sem Pareto (74 categorias),Random Forest
+2018-08-01,pet_shop,198,173.8,24.19999999999999,24.19999999999999,Sem Pareto (74 categorias),Random Forest
+2018-06-01,portateis_casa_forno_e_cafe,3,12.31,-9.31,9.31,Sem Pareto (74 categorias),Random Forest
+2018-07-01,portateis_casa_forno_e_cafe,15,5.685,9.315,9.315,Sem Pareto (74 categorias),Random Forest
+2018-08-01,portateis_casa_forno_e_cafe,17,13.205,3.795,3.795,Sem Pareto (74 categorias),Random Forest
+2018-06-01,portateis_cozinha_e_preparadores_de_alimentos,0,0.905,-0.905,0.905,Sem Pareto (74 categorias),Random Forest
+2018-07-01,portateis_cozinha_e_preparadores_de_alimentos,8,0.865,7.135,7.135,Sem Pareto (74 categorias),Random Forest
+2018-08-01,portateis_cozinha_e_preparadores_de_alimentos,4,7.09,-3.09,3.09,Sem Pareto (74 categorias),Random Forest
+2018-06-01,relogios_presentes,477,614.025,-137.02499999999998,137.02499999999998,Sem Pareto (74 categorias),Random Forest
+2018-07-01,relogios_presentes,521,600.33,-79.33000000000004,79.33000000000004,Sem Pareto (74 categorias),Random Forest
+2018-08-01,relogios_presentes,411,566.48,-155.48000000000002,155.48000000000002,Sem Pareto (74 categorias),Random Forest
+2018-06-01,seguros_e_servicos,0,0.205,-0.205,0.205,Sem Pareto (74 categorias),Random Forest
+2018-07-01,seguros_e_servicos,0,0.235,-0.235,0.235,Sem Pareto (74 categorias),Random Forest
+2018-08-01,seguros_e_servicos,0,0.145,-0.145,0.145,Sem Pareto (74 categorias),Random Forest
+2018-06-01,sinalizacao_e_seguranca,27,21.705,5.295000000000002,5.295000000000002,Sem Pareto (74 categorias),Random Forest
+2018-07-01,sinalizacao_e_seguranca,29,25.695,3.305,3.305,Sem Pareto (74 categorias),Random Forest
+2018-08-01,sinalizacao_e_seguranca,22,26.86,-4.859999999999999,4.859999999999999,Sem Pareto (74 categorias),Random Forest
+2018-06-01,tablets_impressao_imagem,1,1.475,-0.4750000000000001,0.4750000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,tablets_impressao_imagem,0,0.485,-0.485,0.485,Sem Pareto (74 categorias),Random Forest
+2018-08-01,tablets_impressao_imagem,0,0.36,-0.36,0.36,Sem Pareto (74 categorias),Random Forest
+2018-06-01,telefonia,216,278.51,-62.50999999999999,62.50999999999999,Sem Pareto (74 categorias),Random Forest
+2018-07-01,telefonia,221,234.94,-13.939999999999998,13.939999999999998,Sem Pareto (74 categorias),Random Forest
+2018-08-01,telefonia,271,235.34,35.66,35.66,Sem Pareto (74 categorias),Random Forest
+2018-06-01,telefonia_fixa,17,11.92,5.08,5.08,Sem Pareto (74 categorias),Random Forest
+2018-07-01,telefonia_fixa,11,18.19,-7.190000000000001,7.190000000000001,Sem Pareto (74 categorias),Random Forest
+2018-08-01,telefonia_fixa,10,15.785,-5.785,5.785,Sem Pareto (74 categorias),Random Forest
+2018-06-01,utilidades_domesticas,577,609.74,-32.74000000000001,32.74000000000001,Sem Pareto (74 categorias),Random Forest
+2018-07-01,utilidades_domesticas,564,591.14,-27.139999999999983,27.139999999999983,Sem Pareto (74 categorias),Random Forest
+2018-08-01,utilidades_domesticas,616,577.565,38.434999999999945,38.434999999999945,Sem Pareto (74 categorias),Random Forest
+2018-06-01,agro_industria_e_comercio,10,13.374130236943063,-3.3741302369430635,3.3741302369430635,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,agro_industria_e_comercio,27,13.225834662264946,13.774165337735054,13.774165337735054,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,agro_industria_e_comercio,18,24.110849891161887,-6.110849891161887,6.110849891161887,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,alimentos,24,39.32732118753945,-15.327321187539448,15.327321187539448,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,alimentos,64,34.40884879459078,29.59115120540922,29.59115120540922,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,alimentos,115,59.29906020061042,55.70093979938958,55.70093979938958,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,alimentos_bebidas,11,19.32391508169322,-8.323915081693219,8.323915081693219,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,alimentos_bebidas,17,17.504655750078847,-0.5046557500788467,0.5046557500788467,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,alimentos_bebidas,21,20.67814033859044,0.3218596614095581,0.3218596614095581,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,artes,28,29.466600281846414,-1.466600281846418,1.466600281846418,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,artes,21,34.035183805204255,-13.035183805204255,13.035183805204255,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,artes,18,26.11899405396313,-8.118994053963132,8.118994053963132,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,artes_e_artesanato,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,artes_e_artesanato,11,2.754707111556106,8.245292888443894,8.245292888443894,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,artes_e_artesanato,9,8.111658889728039,0.8883411102719609,0.8883411102719609,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,artigos_de_festas,2,3.003280600531267,-1.003280600531267,1.003280600531267,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,artigos_de_festas,2,4.199687797699311,-2.199687797699311,2.199687797699311,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,artigos_de_festas,14,4.199687797699311,9.800312202300688,9.800312202300688,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,artigos_de_natal,7,9.446052010443848,-2.4460520104438483,2.4460520104438483,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,artigos_de_natal,8,9.448736918394998,-1.4487369183949976,1.4487369183949976,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,artigos_de_natal,10,9.448736918394998,0.5512630816050024,0.5512630816050024,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,audio,20,23.14390727291219,-3.143907272912191,3.143907272912191,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,audio,22,23.092781284765454,-1.092781284765458,1.092781284765458,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,audio,26,22.29900186274416,3.7009981372558407,3.7009981372558407,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,automotivo,295,296.4615686219065,-1.4615686219065085,1.4615686219065085,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,automotivo,341,319.3895648815702,21.61043511842979,21.61043511842979,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,automotivo,370,318.5957854595489,51.40421454045111,51.40421454045111,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,bebes,223,243.91192803459495,-20.91192803459498,20.91192803459498,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,bebes,214,242.26840215468317,-28.268402154683145,28.268402154683145,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,bebes,212,241.47462273266183,-29.474622732661857,29.474622732661857,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,bebidas,33,45.58461948558431,-12.584619485584303,12.584619485584303,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,bebidas,16,50.03625888526975,-34.036258885269746,34.036258885269746,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,bebidas,27,29.720987909321533,-2.720987909321533,2.720987909321533,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,beleza_saude,875,638.2353988438757,236.7646011561243,236.7646011561243,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,beleza_saude,770,602.5772261975103,167.4227738024897,167.4227738024897,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,beleza_saude,835,593.9308438434118,241.06915615658815,241.06915615658815,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,brinquedos,190,229.06554936198515,-39.06554936198515,39.06554936198515,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,brinquedos,154,232.89326598534575,-78.89326598534578,78.89326598534578,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,brinquedos,165,190.26424312510585,-25.26424312510585,25.26424312510585,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,cama_mesa_banho,764,700.7156617848584,63.28433821514159,63.28433821514159,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,cama_mesa_banho,617,719.6476749367318,-102.64767493673185,102.64767493673185,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,cama_mesa_banho,655,643.1787721441395,11.821227855860457,11.821227855860457,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,casa_conforto,16,17.749210326196728,-1.749210326196728,1.749210326196728,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,casa_conforto,23,17.83410192632024,5.16589807367976,5.16589807367976,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,casa_conforto,16,20.67814033859044,-4.678140338590442,4.678140338590442,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,casa_conforto_2,2,1.3720022768964075,0.6279977231035923,0.6279977231035923,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,casa_conforto_2,3,3.154297530197718,-0.1542975301977178,0.1542975301977178,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,casa_conforto_2,0,3.685148384569896,-3.685148384569896,3.685148384569896,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,casa_construcao,71,73.62673312513573,-2.626733125135729,2.626733125135729,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,casa_construcao,60,84.49631143232054,-24.49631143232054,24.49631143232054,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,casa_construcao,48,79.70100619885554,-31.701006198855534,31.701006198855534,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,categoria_desconhecida,23,70.37181735298654,-47.37181735298654,47.37181735298654,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,categoria_desconhecida,47,43.86234135074664,3.1376586492533605,3.1376586492533605,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,categoria_desconhecida,31,44.36315168055131,-13.363151680551312,13.363151680551312,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,cds_dvds_musicais,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,cds_dvds_musicais,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,cds_dvds_musicais,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,cine_foto,13,14.925735842515143,-1.9257358425151436,1.9257358425151436,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,cine_foto,7,15.872340483725653,-8.872340483725651,8.872340483725651,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,cine_foto,9,13.29932810630895,-4.29932810630895,4.29932810630895,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,climatizacao,15,16.479876669423017,-1.4798766694230174,1.4798766694230174,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,climatizacao,17,17.83410192632024,-0.8341019263202405,0.8341019263202405,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,climatizacao,21,20.67814033859044,0.3218596614095581,0.3218596614095581,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,consoles_games,43,56.72652051747002,-13.72652051747002,13.72652051747002,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,consoles_games,49,54.23808842249743,-5.238088422497427,5.238088422497427,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,consoles_games,59,64.59508387928275,-5.595083879282754,5.595083879282754,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,construcao_ferramentas_construcao,113,125.95274140143252,-12.952741401432531,12.952741401432531,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,construcao_ferramentas_construcao,115,144.17918667834246,-29.17918667834246,29.17918667834246,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,construcao_ferramentas_construcao,162,136.34196413805415,25.658035861945848,25.658035861945848,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,construcao_ferramentas_ferramentas,4,9.446052010443848,-5.446052010443848,5.446052010443848,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,construcao_ferramentas_ferramentas,12,8.39365380341809,3.60634619658191,3.60634619658191,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,construcao_ferramentas_ferramentas,14,11.32376702650614,2.6762329734938586,2.6762329734938586,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,construcao_ferramentas_iluminacao,44,38.2772781365617,5.722721863438302,5.722721863438302,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,construcao_ferramentas_iluminacao,55,55.2908879287192,-0.2908879287192008,0.2908879287192008,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,construcao_ferramentas_iluminacao,62,60.754406804742736,1.245593195257264,1.245593195257264,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,construcao_ferramentas_jardim,11,14.905171913926536,-3.905171913926536,3.905171913926536,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,construcao_ferramentas_jardim,22,16.04930914594653,5.9506908540534695,5.9506908540534695,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,construcao_ferramentas_jardim,23,20.67814033859044,2.321859661409558,2.321859661409558,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,construcao_ferramentas_seguranca,16,19.32391508169322,-3.323915081693219,3.323915081693219,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,construcao_ferramentas_seguranca,15,20.248742872495257,-5.2487428724952565,5.2487428724952565,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,construcao_ferramentas_seguranca,25,17.83410192632024,7.16589807367976,7.16589807367976,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,cool_stuff,103,213.97760841741876,-110.97760841741874,110.97760841741874,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,cool_stuff,115,190.66359324100137,-75.66359324100137,75.66359324100137,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,cool_stuff,119,169.23512980250823,-50.235129802508254,50.235129802508254,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,dvds_blu_ray,6,7.561777606434528,-1.5617776064345277,1.5617776064345277,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,dvds_blu_ray,1,7.16870434581164,-6.16870434581164,6.16870434581164,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,dvds_blu_ray,1,5.925395004767648,-4.925395004767648,4.925395004767648,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,eletrodomesticos,65,73.31330927367773,-8.313309273677731,8.313309273677731,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,eletrodomesticos,78,84.49631143232054,-6.496311432320539,6.496311432320539,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,eletrodomesticos,63,84.01595586175723,-21.015955861757234,21.015955861757234,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,eletrodomesticos_2,19,17.749210326196728,1.250789673803272,1.250789673803272,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,eletrodomesticos_2,23,23.092781284765454,-0.0927812847654578,0.0927812847654578,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,eletrodomesticos_2,14,22.29900186274416,-8.29900186274416,8.29900186274416,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,eletronicos,191,243.1185858196584,-52.11858581965839,52.11858581965839,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,eletronicos,151,228.70409854037592,-77.70409854037592,77.70409854037592,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,eletronicos,119,181.7192367983265,-62.719236798326506,62.719236798326506,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,eletroportateis,49,69.31178346223403,-20.311783462234036,20.311783462234036,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,eletroportateis,42,61.54818622676404,-19.54818622676404,19.54818622676404,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,eletroportateis,23,54.4971085066979,-31.4971085066979,31.4971085066979,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,esporte_lazer,419,574.1126200156771,-155.11262001567707,155.11262001567707,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,esporte_lazer,460,546.7076466598364,-86.70764665983643,86.70764665983643,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,esporte_lazer,471,529.0937434909603,-58.09374349096026,58.09374349096026,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_bolsas_e_acessorios,87,125.24994838459187,-38.24994838459188,38.24994838459188,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_bolsas_e_acessorios,74,100.46657548163051,-26.466575481630528,26.466575481630528,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_bolsas_e_acessorios,126,89.88078381029516,36.11921618970485,36.11921618970485,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_calcados,10,12.200588391391468,-2.2005883913914666,2.2005883913914666,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_calcados,5,14.08754770335194,-9.08754770335194,9.08754770335194,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_calcados,3,8.030417386898634,-5.030417386898634,5.030417386898634,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_esporte,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_esporte,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_esporte,1,2.754707111556106,-1.754707111556106,1.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_roupa_feminina,0,2.4173925443980004,-2.4173925443980004,2.4173925443980004,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_roupa_feminina,0,2.90872163981459,-2.90872163981459,2.90872163981459,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_roupa_feminina,3,2.754707111556106,0.245292888443894,0.245292888443894,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_roupa_infanto_juvenil,1,1.3720022768964075,-0.3720022768964077,0.3720022768964077,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_roupa_infanto_juvenil,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_roupa_infanto_juvenil,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_roupa_masculina,7,1.3720022768964075,5.627997723103592,5.627997723103592,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_roupa_masculina,5,7.323439292685058,-2.323439292685058,2.323439292685058,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_roupa_masculina,3,6.297262825627579,-3.2972628256275787,3.2972628256275787,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fashion_underwear_e_moda_praia,7,5.595460822529899,1.4045391774701006,1.4045391774701006,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fashion_underwear_e_moda_praia,2,9.448736918394998,-7.448736918394998,7.448736918394998,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fashion_underwear_e_moda_praia,1,6.324985423409259,-5.324985423409259,5.324985423409259,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,ferramentas_jardim,184,290.7085639681983,-106.70856396819828,106.70856396819828,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,ferramentas_jardim,177,243.9997466858489,-66.99974668584892,66.99974668584892,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,ferramentas_jardim,136,228.7036613332912,-92.70366133329122,92.70366133329122,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,flores,2,2.4173925443980004,-0.4173925443980004,0.4173925443980004,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,flores,2,3.94903834503728,-1.94903834503728,1.94903834503728,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,flores,0,3.308312058456202,-3.308312058456202,3.308312058456202,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,fraldas_higiene,7,3.003280600531267,3.996719399468733,3.996719399468733,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,fraldas_higiene,3,9.448736918394998,-6.448736918394998,6.448736918394998,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,fraldas_higiene,3,5.830380229338894,-2.8303802293388944,2.8303802293388944,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,industria_comercio_e_negocios,26,39.32732118753945,-13.327321187539448,13.327321187539448,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,industria_comercio_e_negocios,14,34.40884879459078,-20.40884879459078,20.40884879459078,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,industria_comercio_e_negocios,10,20.910310054606278,-10.910310054606274,10.910310054606274,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,informatica_acessorios,401,663.3860341497503,-262.38603414975034,262.38603414975034,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,informatica_acessorios,418,568.5252028299658,-150.5252028299658,150.5252028299658,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,informatica_acessorios,415,551.2452781925068,-136.24527819250682,136.24527819250682,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,instrumentos_musicais,47,67.61464377973158,-20.61464377973158,20.61464377973158,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,instrumentos_musicais,36,78.79764593837439,-42.79764593837439,42.79764593837439,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,instrumentos_musicais,41,54.4971085066979,-13.4971085066979,13.4971085066979,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,la_cuisine,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,la_cuisine,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,la_cuisine,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,livros_importados,9,8.349997203477516,0.6500027965224842,0.6500027965224842,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,livros_importados,7,11.098669556524989,-4.098669556524987,4.098669556524987,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,livros_importados,1,11.140568972290138,-10.140568972290138,10.140568972290138,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,livros_interesse_geral,38,57.7793200236918,-19.779320023691795,19.779320023691795,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,livros_interesse_geral,25,55.2908879287192,-30.2908879287192,30.2908879287192,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,livros_interesse_geral,36,33.61506937256948,2.3849306274305206,2.3849306274305206,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,livros_tecnicos,26,43.07922983047425,-17.079229830474247,17.079229830474247,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,livros_tecnicos,26,37.35457026809036,-11.354570268090356,11.354570268090356,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,livros_tecnicos,29,33.61506937256948,-4.615069372569479,4.615069372569479,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,malas_acessorios,36,53.31090554162079,-17.31090554162079,17.31090554162079,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,malas_acessorios,54,55.2908879287192,-1.2908879287192008,1.2908879287192008,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,malas_acessorios,64,60.754406804742736,3.245593195257264,3.245593195257264,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,market_place,7,14.905171913926536,-7.905171913926535,7.905171913926535,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,market_place,4,13.29932810630895,-9.29932810630895,9.29932810630895,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,market_place,8,6.701821749522954,1.2981782504770465,1.2981782504770465,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,moveis_colchao_e_estofado,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,moveis_colchao_e_estofado,1,2.754707111556106,-1.754707111556106,1.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,moveis_colchao_e_estofado,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,moveis_cozinha_area_de_servico_jantar_e_jardim,29,14.905171913926536,14.094828086073464,14.094828086073464,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,moveis_cozinha_area_de_servico_jantar_e_jardim,22,26.525490837336907,-4.525490837336907,4.525490837336907,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,moveis_cozinha_area_de_servico_jantar_e_jardim,20,23.754348466876475,-3.754348466876476,3.754348466876476,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,moveis_decoracao,402,531.822956246495,-129.82295624649498,129.82295624649498,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,moveis_decoracao,436,590.616533680617,-154.61653368061695,154.61653368061695,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,moveis_decoracao,430,530.3910286628494,-100.3910286628494,100.3910286628494,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,moveis_escritorio,76,96.90589647514652,-20.90589647514653,20.90589647514653,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,moveis_escritorio,80,100.34533804093986,-20.345338040939865,20.345338040939865,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,moveis_escritorio,30,94.0744960325062,-64.07449603250619,64.07449603250619,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,moveis_quarto,9,5.595460822529899,3.4045391774701006,3.4045391774701006,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,moveis_quarto,10,10.23695651543799,-0.2369565154379902,0.2369565154379902,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,moveis_quarto,12,10.23695651543799,1.7630434845620098,1.7630434845620098,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,moveis_sala,29,17.935223273555334,11.064776726444666,11.064776726444666,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,moveis_sala,54,26.525490837336907,27.474509162663093,27.474509162663093,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,moveis_sala,40,47.5096632156575,-7.509663215657497,7.509663215657497,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,musica,3,3.470163196819947,-0.4701631968199469,0.4701631968199469,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,musica,3,5.830380229338894,-2.8303802293388944,2.8303802293388944,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,musica,6,4.576524123813006,1.423475876186994,1.423475876186994,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,papelaria,167,137.22446151167554,29.775538488324457,29.775538488324457,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,papelaria,190,176.19586475810468,13.804135241895324,13.804135241895324,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,papelaria,169,227.2308851881392,-58.23088518813918,58.23088518813918,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,pc_gamer,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,pc_gamer,2,2.754707111556106,-0.7547071115561059,0.7547071115561059,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,pc_gamer,1,3.154297530197718,-2.154297530197718,2.154297530197718,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,pcs,13,12.943410471331946,0.056589528668054,0.056589528668054,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,pcs,8,15.872340483725653,-7.872340483725651,7.872340483725651,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,pcs,12,13.29932810630895,-1.29932810630895,1.29932810630895,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,perfumaria,186,208.99125581529336,-22.991255815293385,22.991255815293385,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,perfumaria,199,222.68463616622213,-23.68463616622213,23.68463616622213,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,perfumaria,218,221.89085674420085,-3.890856744200846,3.890856744200846,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,pet_shop,178,174.98351956430332,3.0164804356966783,3.0164804356966783,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,pet_shop,158,199.98251309823596,-41.98251309823593,41.98251309823593,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,pet_shop,198,182.5125790132631,15.487420986736907,15.487420986736907,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,portateis_casa_forno_e_cafe,3,12.200588391391468,-9.200588391391468,9.200588391391468,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,portateis_casa_forno_e_cafe,15,6.701821749522954,8.298178250477047,8.298178250477047,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,portateis_casa_forno_e_cafe,17,15.010627442638658,1.9893725573613423,1.9893725573613423,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,portateis_cozinha_e_preparadores_de_alimentos,0,1.7715926955380188,-1.7715926955380188,1.7715926955380188,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,portateis_cozinha_e_preparadores_de_alimentos,8,2.754707111556106,5.245292888443894,5.245292888443894,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,portateis_cozinha_e_preparadores_de_alimentos,4,7.323439292685058,-3.323439292685058,3.323439292685058,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,relogios_presentes,477,665.4971326413646,-188.4971326413646,188.4971326413646,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,relogios_presentes,521,658.0407711823455,-137.04077118234545,137.04077118234545,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,relogios_presentes,411,620.1955923424586,-209.19559234245853,209.19559234245853,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,seguros_e_servicos,0,1.3720022768964075,-1.3720022768964075,1.3720022768964075,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,seguros_e_servicos,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,seguros_e_servicos,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,sinalizacao_e_seguranca,27,13.175952877303784,13.824047122696216,13.824047122696216,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,sinalizacao_e_seguranca,29,25.663777796249903,3.336222203750097,3.336222203750097,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,sinalizacao_e_seguranca,22,27.187058019447925,-5.1870580194479246,5.1870580194479246,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,tablets_impressao_imagem,1,1.526016805154892,-0.5260168051548919,0.5260168051548919,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,tablets_impressao_imagem,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,tablets_impressao_imagem,0,2.754707111556106,-2.754707111556106,2.754707111556106,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,telefonia,216,267.95881616857025,-51.95881616857025,51.95881616857025,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,telefonia,221,242.26840215468317,-21.268402154683145,21.268402154683145,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,telefonia,271,241.47462273266183,29.525377267338143,29.525377267338143,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,telefonia_fixa,17,12.943410471331946,4.056589528668054,4.056589528668054,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,telefonia_fixa,11,20.67814033859044,-9.678140338590442,9.678140338590442,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,telefonia_fixa,10,16.04930914594653,-6.0493091459465305,6.0493091459465305,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,utilidades_domesticas,577,665.2077326931357,-88.20773269313565,88.20773269313565,Sem Pareto (74 categorias),Gradient Boosting
+2018-07-01,utilidades_domesticas,564,607.3060459894984,-43.30604598949844,43.30604598949844,Sem Pareto (74 categorias),Gradient Boosting
+2018-08-01,utilidades_domesticas,616,578.1903281421503,37.80967185784971,37.80967185784971,Sem Pareto (74 categorias),Gradient Boosting
+2018-06-01,automotivo,295,308.0,-13.0,13.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,automotivo,341,295.0,46.0,46.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,automotivo,370,341.0,29.0,29.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,bebes,223,239.0,-16.0,16.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,bebes,214,223.0,-9.0,9.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,bebes,212,214.0,-2.0,2.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,beleza_saude,875,751.0,124.0,124.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,beleza_saude,770,875.0,-105.0,105.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,beleza_saude,835,770.0,65.0,65.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,brinquedos,190,218.0,-28.0,28.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,brinquedos,154,190.0,-36.0,36.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,brinquedos,165,154.0,11.0,11.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,cama_mesa_banho,764,740.0,24.0,24.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,cama_mesa_banho,617,764.0,-147.0,147.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,cama_mesa_banho,655,617.0,38.0,38.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,categoria_desconhecida,23,42.0,-19.0,19.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,categoria_desconhecida,47,23.0,24.0,24.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,categoria_desconhecida,31,47.0,-16.0,16.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,consoles_games,43,52.0,-9.0,9.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,consoles_games,49,43.0,6.0,6.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,consoles_games,59,49.0,10.0,10.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,cool_stuff,103,175.0,-72.0,72.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,cool_stuff,115,103.0,12.0,12.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,cool_stuff,119,115.0,4.0,4.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,eletronicos,191,231.0,-40.0,40.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,eletronicos,151,191.0,-40.0,40.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,eletronicos,119,151.0,-32.0,32.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,esporte_lazer,419,489.0,-70.0,70.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,esporte_lazer,460,419.0,41.0,41.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,esporte_lazer,471,460.0,11.0,11.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,fashion_bolsas_e_acessorios,87,110.0,-23.0,23.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,fashion_bolsas_e_acessorios,74,87.0,-13.0,13.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,fashion_bolsas_e_acessorios,126,74.0,52.0,52.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,ferramentas_jardim,184,288.0,-104.0,104.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,ferramentas_jardim,177,184.0,-7.0,7.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,ferramentas_jardim,136,177.0,-41.0,41.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,informatica_acessorios,401,453.0,-52.0,52.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,informatica_acessorios,418,401.0,17.0,17.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,informatica_acessorios,415,418.0,-3.0,3.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,malas_acessorios,36,49.0,-13.0,13.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,malas_acessorios,54,36.0,18.0,18.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,malas_acessorios,64,54.0,10.0,10.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,moveis_decoracao,402,597.0,-195.0,195.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,moveis_decoracao,436,402.0,34.0,34.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,moveis_decoracao,430,436.0,-6.0,6.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,moveis_escritorio,76,104.0,-28.0,28.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,moveis_escritorio,80,76.0,4.0,4.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,moveis_escritorio,30,80.0,-50.0,50.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,outras,897,1008.0,-111.0,111.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,outras,953,897.0,56.0,56.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,outras,1022,953.0,69.0,69.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,papelaria,167,130.0,37.0,37.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,papelaria,190,167.0,23.0,23.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,papelaria,169,190.0,-21.0,21.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,perfumaria,186,197.0,-11.0,11.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,perfumaria,199,186.0,13.0,13.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,perfumaria,218,199.0,19.0,19.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,pet_shop,178,136.0,42.0,42.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,pet_shop,158,178.0,-20.0,20.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,pet_shop,198,158.0,40.0,40.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,relogios_presentes,477,625.0,-148.0,148.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,relogios_presentes,521,477.0,44.0,44.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,relogios_presentes,411,521.0,-110.0,110.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,telefonia,216,250.0,-34.0,34.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,telefonia,221,216.0,5.0,5.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,telefonia,271,221.0,50.0,50.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,utilidades_domesticas,577,618.0,-41.0,41.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-07-01,utilidades_domesticas,564,577.0,-13.0,13.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-08-01,utilidades_domesticas,616,564.0,52.0,52.0,Com Pareto (categorias + 'outras'),Naive (mês anterior)
+2018-06-01,automotivo,295,334.0644498656475,-39.06444986564748,39.06444986564748,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,automotivo,341,325.616879406356,15.38312059364398,15.38312059364398,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,automotivo,370,347.65654047187127,22.343459528128733,22.343459528128733,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,bebes,223,256.3481628265872,-33.34816282658721,33.34816282658721,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,bebes,214,257.33217495077406,-43.33217495077406,43.33217495077406,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,bebes,212,254.73269980872283,-42.73269980872283,42.73269980872283,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,beleza_saude,875,713.5163329103525,161.4836670896475,161.4836670896475,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,beleza_saude,770,792.3060559412988,-22.30605594129884,22.30605594129884,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,beleza_saude,835,783.5808183438494,51.41918165615061,51.41918165615061,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,brinquedos,190,256.0860723466176,-66.08607234661758,66.08607234661758,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,brinquedos,154,255.06452794591317,-101.06452794591314,101.06452794591314,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,brinquedos,165,237.64812090905616,-72.64812090905616,72.64812090905616,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,cama_mesa_banho,764,760.6437847727066,3.3562152272934327,3.3562152272934327,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,cama_mesa_banho,617,779.2868558768096,-162.28685587680957,162.28685587680957,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,cama_mesa_banho,655,726.2726305162068,-71.27263051620685,71.27263051620685,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,categoria_desconhecida,23,94.24807670839073,-71.24807670839073,71.24807670839073,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,categoria_desconhecida,47,84.73218726662162,-37.73218726662162,37.73218726662162,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,categoria_desconhecida,31,95.63722852806676,-64.63722852806677,64.63722852806677,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,consoles_games,43,80.79964453435969,-37.799644534359686,37.799644534359686,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,consoles_games,49,87.1440340482659,-38.14403404826589,38.14403404826589,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,consoles_games,59,92.97823377397437,-33.97823377397435,33.97823377397435,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,cool_stuff,103,232.53385054378305,-129.53385054378305,129.53385054378305,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,cool_stuff,115,200.07667778585164,-85.07667778585164,85.07667778585164,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,cool_stuff,119,192.23753997928,-73.23753997927997,73.23753997927997,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,eletronicos,191,246.2211645184725,-55.221164518472506,55.221164518472506,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,eletronicos,151,240.56761046017343,-89.56761046017346,89.56761046017346,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,eletronicos,119,218.3620986204187,-99.36209862041868,99.36209862041868,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,esporte_lazer,419,563.1427646176162,-144.1427646176162,144.1427646176162,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,esporte_lazer,460,514.1232217586075,-54.12322175860754,54.12322175860754,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,esporte_lazer,471,519.0927380537614,-48.09273805376142,48.09273805376142,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,fashion_bolsas_e_acessorios,87,140.51412972516846,-53.51412972516846,53.51412972516846,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,fashion_bolsas_e_acessorios,74,139.5743005569966,-65.5743005569966,65.5743005569966,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,fashion_bolsas_e_acessorios,126,133.47730165923713,-7.477301659237128,7.477301659237128,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,ferramentas_jardim,184,314.5813635051163,-130.58136350511631,130.58136350511631,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,ferramentas_jardim,177,277.98404315608786,-100.98404315608786,100.98404315608786,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,ferramentas_jardim,136,253.9056807188317,-117.90568071883172,117.90568071883172,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,informatica_acessorios,401,519.2786288352945,-118.27862883529453,118.27862883529453,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,informatica_acessorios,418,483.7538636234676,-65.75386362346762,65.75386362346762,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,informatica_acessorios,415,482.9206084717735,-67.92060847177345,67.92060847177345,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,malas_acessorios,36,84.7084604788688,-48.7084604788688,48.7084604788688,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,malas_acessorios,54,84.32781362446258,-30.32781362446258,30.32781362446258,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,malas_acessorios,64,94.28242561522347,-30.282425615223477,30.282425615223477,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,moveis_decoracao,402,594.3250689714769,-192.32506897147687,192.32506897147687,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,moveis_decoracao,436,518.8656702455046,-82.86567024550459,82.86567024550459,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,moveis_decoracao,430,489.67867431744526,-59.67867431744526,59.67867431744526,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,moveis_escritorio,76,140.35962087576627,-64.35962087576627,64.35962087576627,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,moveis_escritorio,80,128.0972430135007,-48.0972430135007,48.0972430135007,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,moveis_escritorio,30,127.96309485755046,-97.96309485755046,97.96309485755046,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,outras,897,979.1747263971774,-82.17472639717744,82.17472639717744,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,outras,953,919.0260168001988,33.973983199801296,33.973983199801296,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,outras,1022,920.252970118192,101.74702988180798,101.74702988180798,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,papelaria,167,171.36458572365518,-4.364585723655182,4.364585723655182,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,papelaria,190,189.30111812504765,0.6988818749523489,0.6988818749523489,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,papelaria,169,214.07705769526365,-45.07705769526365,45.07705769526365,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,perfumaria,186,221.7002143239515,-35.70021432395151,35.70021432395151,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,perfumaria,199,229.9180843373761,-30.918084337376055,30.918084337376055,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,perfumaria,218,238.3901503686211,-20.390150368621107,20.390150368621107,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,pet_shop,178,166.02132557914592,11.978674420854077,11.978674420854077,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,pet_shop,158,184.48149611073316,-26.481496110733133,26.481496110733133,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,pet_shop,198,191.5931401055132,6.406859894486843,6.406859894486843,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,relogios_presentes,477,560.2308678198897,-83.23086781988968,83.23086781988968,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,relogios_presentes,521,536.39613271915,-15.396132719150046,15.396132719150046,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,relogios_presentes,411,524.3469692228828,-113.34696922288276,113.34696922288276,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,telefonia,216,292.4957874830143,-76.49578748301428,76.49578748301428,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,telefonia,221,277.1821521810052,-56.18215218100522,56.18215218100522,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,telefonia,271,275.9478071770427,-4.947807177042705,4.947807177042705,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,utilidades_domesticas,577,550.1007674910506,26.899232508949357,26.899232508949357,Com Pareto (categorias + 'outras'),Linear Regression
+2018-07-01,utilidades_domesticas,564,579.607135579543,-15.607135579542955,15.607135579542955,Com Pareto (categorias + 'outras'),Linear Regression
+2018-08-01,utilidades_domesticas,616,569.907868137976,46.09213186202396,46.09213186202396,Com Pareto (categorias + 'outras'),Linear Regression
+2018-06-01,automotivo,295,330.625,-35.625,35.625,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,automotivo,341,333.28,7.720000000000027,7.720000000000027,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,automotivo,370,353.675,16.32499999999999,16.32499999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,bebes,223,250.655,-27.655,27.655,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,bebes,214,237.34,-23.340000000000003,23.340000000000003,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,bebes,212,234.865,-22.86500000000001,22.86500000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,beleza_saude,875,677.565,197.43499999999997,197.43499999999997,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,beleza_saude,770,691.01,78.99000000000001,78.99000000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,beleza_saude,835,764.86,70.13999999999999,70.13999999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,brinquedos,190,226.815,-36.815,36.815,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,brinquedos,154,219.3,-65.30000000000001,65.30000000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,brinquedos,165,184.305,-19.305000000000007,19.305000000000007,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,cama_mesa_banho,764,678.89,85.11000000000001,85.11000000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,cama_mesa_banho,617,699.51,-82.50999999999999,82.50999999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,cama_mesa_banho,655,688.855,-33.85500000000002,33.85500000000002,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,categoria_desconhecida,23,88.53,-65.53,65.53,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,categoria_desconhecida,47,67.47,-20.47,20.47,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,categoria_desconhecida,31,69.775,-38.775000000000006,38.775000000000006,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,consoles_games,43,52.755,-9.755000000000004,9.755000000000004,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,consoles_games,49,67.455,-18.455,18.455,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,consoles_games,59,67.26,-8.260000000000005,8.260000000000005,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,cool_stuff,103,212.735,-109.735,109.735,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,cool_stuff,115,151.17,-36.16999999999999,36.16999999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,cool_stuff,119,156.62,-37.620000000000005,37.620000000000005,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,eletronicos,191,253.675,-62.67500000000001,62.67500000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,eletronicos,151,226.355,-75.35499999999999,75.35499999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,eletronicos,119,181.005,-62.005,62.005,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,esporte_lazer,419,577.365,-158.365,158.365,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,esporte_lazer,460,589.875,-129.875,129.875,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,esporte_lazer,471,521.585,-50.58500000000004,50.58500000000004,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,fashion_bolsas_e_acessorios,87,130.035,-43.035,43.035,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,fashion_bolsas_e_acessorios,74,89.45,-15.450000000000005,15.450000000000005,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,fashion_bolsas_e_acessorios,126,85.73,40.27,40.27,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,ferramentas_jardim,184,308.55,-124.55,124.55,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,ferramentas_jardim,177,250.265,-73.26499999999999,73.26499999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,ferramentas_jardim,136,232.46,-96.46,96.46,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,informatica_acessorios,401,593.41,-192.41,192.41,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,informatica_acessorios,418,598.895,-180.895,180.895,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,informatica_acessorios,415,545.475,-130.47500000000002,130.47500000000002,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,malas_acessorios,36,61.19,-25.19,25.19,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,malas_acessorios,54,64.185,-10.185000000000002,10.185000000000002,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,malas_acessorios,64,63.525,0.4750000000000014,0.4750000000000014,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,moveis_decoracao,402,572.82,-170.82000000000005,170.82000000000005,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,moveis_decoracao,436,587.23,-151.23000000000002,151.23000000000002,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,moveis_decoracao,430,521.135,-91.135,91.135,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,moveis_escritorio,76,114.76,-38.760000000000005,38.760000000000005,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,moveis_escritorio,80,87.63,-7.6299999999999955,7.6299999999999955,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,moveis_escritorio,30,98.735,-68.735,68.735,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,outras,897,912.97,-15.970000000000027,15.970000000000027,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,outras,953,913.225,39.77499999999998,39.77499999999998,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,outras,1022,926.955,95.04499999999996,95.04499999999996,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,papelaria,167,133.445,33.55500000000001,33.55500000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,papelaria,190,162.325,27.67500000000001,27.67500000000001,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,papelaria,169,239.1,-70.1,70.1,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,perfumaria,186,212.51,-26.50999999999999,26.50999999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,perfumaria,199,217.85,-18.849999999999994,18.849999999999994,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,perfumaria,218,216.21,1.789999999999992,1.789999999999992,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,pet_shop,178,157.955,20.044999999999987,20.044999999999987,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,pet_shop,158,183.595,-25.595,25.595,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,pet_shop,198,180.525,17.474999999999994,17.474999999999994,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,relogios_presentes,477,601.775,-124.77499999999998,124.77499999999998,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,relogios_presentes,521,607.215,-86.21500000000003,86.21500000000003,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,relogios_presentes,411,569.885,-158.885,158.885,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,telefonia,216,291.435,-75.435,75.435,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,telefonia,221,226.97,-5.969999999999999,5.969999999999999,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,telefonia,271,235.91,35.09,35.09,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,utilidades_domesticas,577,607.64,-30.639999999999983,30.639999999999983,Com Pareto (categorias + 'outras'),Random Forest
+2018-07-01,utilidades_domesticas,564,608.06,-44.059999999999945,44.059999999999945,Com Pareto (categorias + 'outras'),Random Forest
+2018-08-01,utilidades_domesticas,616,588.98,27.019999999999985,27.019999999999985,Com Pareto (categorias + 'outras'),Random Forest
+2018-06-01,automotivo,295,333.6470874994193,-38.647087499419285,38.647087499419285,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,automotivo,341,321.8226493645744,19.177350635425626,19.177350635425626,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,automotivo,370,323.5380306670209,46.461969332979095,46.461969332979095,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,bebes,223,239.4799985245816,-16.479998524581617,16.479998524581617,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,bebes,214,247.6293179177908,-33.62931791779076,33.62931791779076,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,bebes,212,248.7651547699973,-36.76515476999734,36.76515476999734,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,beleza_saude,875,648.865480884748,226.13451911525203,226.13451911525203,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,beleza_saude,770,726.5986315017316,43.401368498268425,43.401368498268425,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,beleza_saude,835,841.8994380744382,-6.899438074438194,6.899438074438194,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,brinquedos,190,225.9477405007121,-35.94774050071209,35.94774050071209,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,brinquedos,154,232.27179057046308,-78.27179057046308,78.27179057046308,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,brinquedos,165,182.76266940726663,-17.762669407266657,17.762669407266657,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,cama_mesa_banho,764,602.2687176272623,161.73128237273772,161.73128237273772,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,cama_mesa_banho,617,667.4276753376442,-50.427675337644246,50.427675337644246,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,cama_mesa_banho,655,647.9571488468937,7.042851153106312,7.042851153106312,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,categoria_desconhecida,23,86.40868876707034,-63.408688767070345,63.408688767070345,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,categoria_desconhecida,47,65.40621769112448,-18.40621769112448,18.40621769112448,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,categoria_desconhecida,31,66.54205454333106,-35.54205454333106,35.54205454333106,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,consoles_games,43,38.884764588634965,4.115235411365035,4.115235411365035,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,consoles_games,49,53.86283376344907,-4.862833763449068,4.862833763449068,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,consoles_games,59,71.62730560101708,-12.627305601017085,12.627305601017085,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,cool_stuff,103,209.89647896163376,-106.89647896163376,106.89647896163376,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,cool_stuff,115,164.94096890983613,-49.94096890983613,49.94096890983613,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,cool_stuff,119,149.25181293915716,-30.25181293915716,30.25181293915716,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,eletronicos,191,239.4799985245816,-48.47999852458162,48.47999852458162,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,eletronicos,151,232.27179057046308,-81.27179057046308,81.27179057046308,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,eletronicos,119,178.2641604402116,-59.26416044021161,59.26416044021161,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,esporte_lazer,419,552.1759419226591,-133.17594192265915,133.17594192265915,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,esporte_lazer,460,509.6611438798117,-49.66114387981168,49.66114387981168,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,esporte_lazer,471,547.7170600127478,-76.71706001274777,76.71706001274777,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,fashion_bolsas_e_acessorios,87,120.70185626079368,-33.70185626079369,33.70185626079369,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,fashion_bolsas_e_acessorios,74,105.64757681726076,-31.64757681726076,31.64757681726076,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,fashion_bolsas_e_acessorios,126,84.46585500450172,41.53414499549828,41.53414499549828,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,ferramentas_jardim,184,281.9773280984644,-97.9773280984644,97.9773280984644,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,ferramentas_jardim,177,249.60408236084143,-72.60408236084143,72.60408236084143,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,ferramentas_jardim,136,235.99752176357927,-99.99752176357929,99.99752176357929,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,informatica_acessorios,401,626.6720130325647,-225.67201303256468,225.67201303256468,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,informatica_acessorios,418,596.0453399814,-178.04533998140005,178.04533998140005,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,informatica_acessorios,415,577.1588027878746,-162.1588027878746,162.1588027878746,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,malas_acessorios,36,51.743334213580845,-15.743334213580845,15.743334213580845,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,malas_acessorios,54,60.63491306834507,-6.634913068345071,6.634913068345071,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,malas_acessorios,64,62.25981115996221,1.7401888400377885,1.7401888400377885,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,moveis_decoracao,402,555.2926082006963,-153.29260820069635,153.29260820069635,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,moveis_decoracao,436,594.4295712262463,-158.42957122624625,158.42957122624625,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,moveis_decoracao,430,544.5413308013967,-114.54133080139673,114.54133080139673,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,moveis_escritorio,76,105.33186176160832,-29.331861761608323,29.331861761608323,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,moveis_escritorio,80,98.337908597174,-18.337908597174007,18.337908597174007,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,moveis_escritorio,30,99.7460678930739,-69.7460678930739,69.7460678930739,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,outras,897,858.9500188611427,38.04998113885733,38.04998113885733,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,outras,953,860.8436507571006,92.1563492428994,92.1563492428994,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,outras,1022,1027.600038820406,-5.600038820405871,5.600038820405871,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,papelaria,167,142.39327355415614,24.60672644584386,24.60672644584386,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,papelaria,190,180.4195688754472,9.580431124552804,9.580431124552804,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,papelaria,169,233.4076274226697,-64.40762742266966,64.40762742266966,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,perfumaria,186,214.40530858804908,-28.40530858804908,28.40530858804908,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,perfumaria,199,225.32690184672072,-26.32690184672072,26.32690184672072,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,perfumaria,218,226.98939469513573,-8.98939469513573,8.98939469513573,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,pet_shop,178,160.18443176655552,17.81556823344448,17.81556823344448,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,pet_shop,158,194.0350549894554,-36.0350549894554,36.0350549894554,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,pet_shop,198,178.2641604402116,19.73583955978839,19.73583955978839,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,relogios_presentes,477,640.6706773397085,-163.6706773397085,163.6706773397085,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,relogios_presentes,521,648.7440314931413,-127.74403149314128,127.74403149314128,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,relogios_presentes,411,613.7389784137297,-202.73897841372968,202.73897841372968,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,telefonia,216,257.65996749117755,-41.659967491177554,41.659967491177554,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,telefonia,221,247.6293179177908,-26.62931791779076,26.62931791779076,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,telefonia,271,248.7651547699973,22.234845230002666,22.234845230002666,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-06-01,utilidades_domesticas,577,676.196012650083,-99.19601265008303,99.19601265008303,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-07-01,utilidades_domesticas,564,590.6370231617824,-26.637023161782395,26.637023161782395,Com Pareto (categorias + 'outras'),Gradient Boosting
+2018-08-01,utilidades_domesticas,616,557.4994482312535,58.5005517687465,58.5005517687465,Com Pareto (categorias + 'outras'),Gradient Boosting
