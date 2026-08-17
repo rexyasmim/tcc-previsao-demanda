@@ -26,7 +26,12 @@ pd.set_option("display.width", 120)
 
 
 def load_data():
-    return pd.read_csv(INPUT_PATH, parse_dates=["date"])
+    df = pd.read_csv(INPUT_PATH, parse_dates=["date"])
+
+    df["cenario"] = "Sem Pareto (74 categorias)"
+    df["modelo"] = "Naive Lag-1"
+
+    return df
 
 
 def secao(titulo):
